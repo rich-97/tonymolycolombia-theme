@@ -1,0 +1,143 @@
+{%- liquid
+  assign cl_des = settings.des_pr_design
+  assign cl_mb  = section.settings.des_mb
+  assign additions = product.metafields.additions
+  assign currently_var = product.selected_or_first_available_variant
+  assign cur_var_id = currently_var.id
+  assign pid = product.id
+  assign hd_up = 'fbt-' |append:pid
+  assign fbt_tag = product.tags| where:'fbtt4_' | first | default:hd_up | remove:'fbtt4_'
+  assign nav_up = linklists[fbt_tag].links | where:'type','product_link'
+  assign nav_up_size = nav_up.size 
+  if product.available == false or settings.fbt_pos == '1'
+    assign nav_up_size = 0
+  endif
+  assign des_w  = section.settings.des_w
+  assign des_pr_layout = settings.des_pr_layout
+  assign pr_tags = product.tags
+  assign tag_arr_size = pr_tags | where:'tabt4_' | size -%}
+
+<div {%- unless section.settings.show -%}style="display:none"{%- endunless -%}} class="panel entry-content sp-tab des_mb_{{cl_mb}} des_style_{{cl_des}}{% if ck %} active{% assign ck = false %}{% else %} dn{% endif %}" id="tab_pr_reivew" {{ block.shopify_attributes }}>
+  <div class="js_ck_view"></div><div class="heading bgbl dn"><a class="tab-heading flex al_center fl_between pr cd chp fwm" href="#tab_pr_reivew"><span class="txt_h_tab">{{block.settings.title}}</span><span class="nav_link_icon ml__5"></span></a></div>
+  <div class="sp-tab-content">
+    <div id="shopify-product-reviews" data-id="{{pid}}">{{ product.metafields.spr.reviews }}</div>
+  </div>
+</div>
+
+{%- style -%}
+   {%- if des_pr_layout == '1' %}
+     {%- if des_w == '3' -%}#wrap_des_pr{%- elsif des_w == '1' -%}#shopify-section-pr_description{%- else -%}.container_des{%- endif -%}{background-color: {{section.settings.bgclmb}};}
+     @media (min-width: 1025px){
+        {%- if des_w == '2' or des_w == '4' -%}
+        .container_des {
+              {%- if des_w == '2' %}max-width: 1600px;
+              {%- else %}max-width: 100%;padding-left: 30px;padding-right: 30px;
+              {%- endif -%}
+         }
+        {%- endif -%}
+        {%- if des_w == '3' -%}#wrap_des_pr{%- elsif des_w == '1' -%}#shopify-section-pr_description{%- else -%}.container_des{%- endif -%}{
+            background-color: {{section.settings.bgcl}};
+        }
+     }
+  {%- else -%}
+    .des_pr_layout_2 #shopify-section-pr_description {margin-top: 40px;}@media (max-width: 1024px) {.des_pr_layout_2 .des_style_1.des_mb_2.sp-tab(:first-child) {margin-bottom: 40px;}}
+  {%- endif -%}
+  {%- assign mg = section.settings.mg -%}
+  {%- assign mg_mb = section.settings.mg_mb -%}
+  {%- if mg != blank -%} 
+  #wrap_des_pr {
+     {%- assign arr_mg = mg | remove:' ' | split:',' -%}
+      margin-top: {{arr_mg[0]}} !important;margin-right: {{arr_mg[1]}} !important;margin-bottom: {{arr_mg[2]}} !important;margin-left: {{arr_mg[3]}} !important;
+  }
+  {%- endif -%}
+  {%- if mg_mb != blank-%} 
+  @media only screen and (max-width: 767px) {
+    #wrap_des_pr {
+      {%- assign arr_mg = mg_mb | remove:' ' | split:',' -%}
+      margin-top: {{arr_mg[0]}} !important;margin-right: {{arr_mg[1]}} !important;margin-bottom: {{arr_mg[2]}} !important;margin-left: {{arr_mg[3]}} !important;
+    }
+  }
+  {%- endif -%}
+{%- endstyle -%}
+
+{%- schema -%} 
+  {
+    "name": "Easy Testimonials",
+    "class": "shopify-testimonials sp-quotes nt_section",
+    "settings": [ 
+      {
+        "type": "checkbox",
+        "id": "show",
+        "label": "Enable section",
+        "default": true
+      },
+      {
+        "type": "color",
+        "id": "bgcl",
+        "label": "Background Color",
+        "info": "Not working when enable description sidebar",
+        "default": "#fff"
+      },
+      {
+        "type": "color",
+        "id": "bgclmb",
+        "label": "Background Color (mobile)",
+        "info": "Not working when enable sidebar",
+        "default": "#fff"
+      },
+      {
+        "type": "select",
+        "id": "des_w",
+        "default": "1",
+        "info": "Not working when enable sidebar",
+        "options": [
+          {
+            "value": "1",
+            "label": "Default"
+          },
+          {
+            "value": "2",
+            "label": "Wide (1600px)"
+          },
+          {
+            "value": "3",
+            "label": "full Width"
+          },
+          {
+            "value": "4",
+            "label": "Content full Width"
+          }
+        ],
+        "label": "Layout"
+      },
+      {
+        "type": "select",
+        "id": "des_mb",
+        "label": "Design mobile",
+        "default": "2",
+        "options": [
+          {
+            "value": "1","label": "Design 1"
+          },
+          {
+            "value": "2","label": "Design 2"
+          }
+        ]
+      },  
+      {
+        "type": "text",
+        "id": "mg",
+        "label": "Margin",
+        "default": "30px,,30px,",
+        "placeholder": "30px,,30px,"
+      },
+      {
+        "type": "text",
+        "id": "mg_mb",
+        "label": "Margin Mobile",
+        "default": "0,,0,",
+        "placeholder": "0,,0,"
+      }
+    ]
+  }
+{% endschema %}

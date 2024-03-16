@@ -1,0 +1,5112 @@
+{
+  "current": {
+    "general_layout": "full_width",
+    "cus_w_bd": 1170,
+    "body_bg": "#fff",
+    "body_bg_image": "",
+    "body_bg_repeat": "default",
+    "body_bg_size": "default",
+    "body_bg_attachment": "default",
+    "body_bg_position": "default",
+    "home_keywords": "TONYMOLY es la marca ✅ #1 de MAQUILLAJE, ESTÉTICA Y COSMÉTICA COREANA ahora a tu alcance. Encuentra aquí los mejores productos",
+    "shop_author": "Tony Moly Colombia",
+    "global_acc": "",
+    "use_rtl": false,
+    "backtop": "3",
+    "backtop_des": "1",
+    "prevent_copying": false,
+    "falling_snow": false,
+    "catalog_mode": false,
+    "enable_toolbar": true,
+    "enable_new_pp": true,
+    "enable_pro_pr_pp": false,
+    "enable_ck_pp": false,
+    "enable_age_pp": false,
+    "enable_salse_pp": true,
+    "enable_salse_pp_mb": false,
+    "platform_email": "1",
+    "klaviyo_list_id": "",
+    "ajax_klaviyo": true,
+    "action_mailchimp": "",
+    "ajax_mailChimp": false,
+    "checkbox_mail": false,
+    "link_mail": "",
+    "enable_growave": false,
+    "enable_infiniteoptions": true,
+    "wishlist_type": "1",
+    "app_review": "1",
+    "label_settings": "rounded",
+    "use_sale_label": true,
+    "label_sale_style": "2",
+    "use_sold_out_label": true,
+    "use_new_label": true,
+    "new_day_added": 10,
+    "c_1": "",
+    "c_2": "",
+    "c_3": "",
+    "c_4": "",
+    "enable_meta": true,
+    "enable_tag": true,
+    "filter_price_list": "$7-$50, $50-$150, $150-$500",
+    "logo_svg": "",
+    "logo": "shopify:\/\/shop_images\/Tony_Moly_2.png",
+    "logo_retina": "shopify:\/\/shop_images\/Tony_Moly_2.png",
+    "logo_width": 255,
+    "logos": "shopify:\/\/shop_images\/Tony_Moly_2.png",
+    "logos_retina": "shopify:\/\/shop_images\/Tony_Moly_2.png",
+    "logos_width": 150,
+    "logo_mb": "shopify:\/\/shop_images\/Tony_Moly_2.png",
+    "logo_mb_retina": "shopify:\/\/shop_images\/Tony_Moly_2.png",
+    "logo_mb_width": 205,
+    "logo_tr_svg": "",
+    "logo_tr": "",
+    "logo_tr_retina": "",
+    "logo_tr_width": 100,
+    "h_banner": false,
+    "h_topbar": true,
+    "full_header": true,
+    "sticky_header": true,
+    "scroll_header": false,
+    "header_design": "8",
+    "h_transparent": false,
+    "h_tr_top": false,
+    "h_navmb": 75,
+    "mb_cat": true,
+    "only_icon": true,
+    "first_cat": false,
+    "h__bgimg": "",
+    "bgnav": "#ffffff",
+    "opnav": 100,
+    "clnav": "#222222",
+    "bgnavst": "#ffffff",
+    "opnavst": 100,
+    "clnavst": "#222222",
+    "bgnavtr": "#000000",
+    "opnavtr": 40,
+    "clnavtr": "#ffffff",
+    "h_icon": "iccl",
+    "show_search": true,
+    "show_wis": true,
+    "show_acc": true,
+    "cart_des": "2",
+    "bg_hc": "#f5a1a1",
+    "cl_hc": "#ffffff",
+    "btnt4_style": "2",
+    "cl_bd_text": "#f5a1a1",
+    "color_primary": "#ffbcbc",
+    "cl_hd": "#222222",
+    "cl_se_tt": "#222222",
+    "cl_se_subtt": "#222222",
+    "ld_bar": "#00badb",
+    "cl_sale": "#ffbcbc",
+    "cl_new": "#cae9ec",
+    "cl_sold_out": "#ffbcbc",
+    "clpr_tt": "#222222",
+    "clpr_price": "#ffbcbc",
+    "clpr_price_sale": "#ffbcbc",
+    "clpr_price_goc": "#878787",
+    "atw_btn": "#ffffff",
+    "bgqv_btn": "#000000",
+    "qv_btn": "#ffffff",
+    "bgqv_btn_hover": "#ffbcbc",
+    "qv_btn_hover": "#ffffff",
+    "bgatc_btn": "#000000",
+    "atc_btn": "#ffffff",
+    "bgatc_btn_hover": "#f6a9e6",
+    "atc_btn_hover": "#fff",
+    "bgatc_pg": "#ffbcbc",
+    "atc_pg": "#ffffff",
+    "bgatc_pg_hover": "#222222",
+    "atc_pg_hover": "#fff",
+    "bgck_btn": "#222222",
+    "ck_btn": "#fff",
+    "bgck_btn_hover": "#222",
+    "ck_btn_hover": "#fff",
+    "cl_tooltip": "#383838",
+    "cl_tooltip_txt": "#fff",
+    "cl_lazyload": "#ffbcbc",
+    "bg_lazyload": "#f5f5f5",
+    "use_cus_lz": false,
+    "cus_lz": "",
+    "size_cus_lz": 60,
+    "font_source": "1",
+    "fnt_bd": "poppins_n4",
+    "fnt_heading": "futura_n4",
+    "fnt_sub_tt": "poppins_n4",
+    "fnt_bd2": "Poppins",
+    "fnt_heading2": "Futura",
+    "fnt_sub_tt2": "Poppins",
+    "fw_bd": 400,
+    "size_bd_text": 16.5,
+    "bd_line_height": 1.7,
+    "hd_letter_spacing": 0,
+    "fw_hd": 500,
+    "hd_line_height": 1.4,
+    "fw_nav": 400,
+    "fs_nav": 14.5,
+    "ls_nav": 0,
+    "size_se_tt": 24,
+    "fw_se_tt": 600,
+    "lh_se_tt": 0,
+    "ls_se_tt": 0,
+    "size_se_tt_mb": 24,
+    "fw_se_tt_mb": 600,
+    "lh_se_tt_mb": 0,
+    "ls_se_tt_mb": 0,
+    "size_se_stt": 17,
+    "fw_se_stt": 400,
+    "lh_se_stt": 0,
+    "ls_se_stt": 0,
+    "size_se_stt_mb": 14,
+    "fw_se_stt_mb": 400,
+    "lh_se_stt_mb": 0,
+    "ls_se_stt_mb": 0,
+    "txt_tr_pr": "capitalize",
+    "size_pr": 20,
+    "size_price_pr": 18,
+    "space_pr": 15,
+    "shop_layout": "default",
+    "shop_des": "default",
+    "cat_des": "2",
+    "shop_sidebar": "none",
+    "shop_size_sidebar": "1",
+    "use_hidden_cat": false,
+    "space_sidebar": 20,
+    "ajax_shop": true,
+    "ajax_scroll_top": false,
+    "show_column_switch": true,
+    "sort_enable": true,
+    "cat_sticky": true,
+    "shop_filters": true,
+    "pop_style": "nt_pop_sidebar",
+    "type_filters": "2",
+    "logic_filter": "2",
+    "auto_hide_ofsock": false,
+    "show_hide_ofsock": false,
+    "pr_layout": "default",
+    "design_products": "1",
+    "size_img_pr": "2",
+    "nav_img_pr": "medium",
+    "use_sticky_des": true,
+    "main_click": "zoom",
+    "zoom_tp": "2",
+    "pswp_tp": "light",
+    "show_zoom_img": true,
+    "des_pr_design": "1",
+    "des_pr_layout": "1",
+    "pr_sidebar": "none",
+    "pr_sidebar_full": false,
+    "pr_size_sidebar": "2",
+    "pr_curent": "3",
+    "fbt_pos": "1",
+    "show_first_img": false,
+    "use_vimg": true,
+    "sticky_atc": true,
+    "social_pr": true,
+    "enable_vlooping": true,
+    "use_fimg": false,
+    "color_ck": "",
+    "use_clicking_vimg": false,
+    "enable_his": false,
+    "pr_incoming_mess": false,
+    "date_in": "3",
+    "remove_sold_out": false,
+    "use_notify_me": true,
+    "breadcrumb_pr": true,
+    "back_next_pr": true,
+    "ratio_img_main": "ratio_imgtrue",
+    "img_size_main": "nt_contain",
+    "img_pos_main": "8",
+    "ratio_img_thumb": "ratio_imgtrue",
+    "img_size_thumb": "nt_cover",
+    "img_pos_thumb": "8",
+    "share_source": "1",
+    "use_quickview": false,
+    "use_pr_rating": false,
+    "hide_btns": false,
+    "price_format": "1",
+    "show_pr_img": "2",
+    "hover_img": "2",
+    "pr_overlay": 10,
+    "use_quickshop": true,
+    "use_buy_qs": true,
+    "swatch_design": "2",
+    "style_color": "1",
+    "swatch_style": "1",
+    "swatch_size": "medium",
+    "show_pr_color": true,
+    "show_color_type": "1",
+    "pr_swatch_setting": "1",
+    "swatch_home_size": "small",
+    "swatch_style_settings": "rounded",
+    "show_pr_size": true,
+    "show_size_type": "1",
+    "size_ck": "",
+    "min_qty": "1",
+    "edit_item": "0",
+    "use_cart_cd": false,
+    "cart_time": 10,
+    "cart_pos": "side",
+    "after_action_atc": "3",
+    "search_pos": "full",
+    "ajax_search": true,
+    "filter_type_search": false,
+    "only_search_prs": true,
+    "unavailable_prs": "last",
+    "prefix": "none",
+    "show_search_suggest": false,
+    "search_prs_suggest": "",
+    "blog_layout": "default",
+    "blog_sidebar": "none",
+    "blog_size_sidebar": "2",
+    "blog_slider": false,
+    "lr_enable": true,
+    "use_privacy_policy": false,
+    "privacy_policy_link": "",
+    "login_side": true,
+    "checkout_url": "",
+    "growave_social_login": true,
+    "free_ship_pr": "envio-gratis",
+    "gift_wrap_pr": "",
+    "link_ship": "",
+    "link_conditions": "",
+    "ship_calc_df_country": "Colombia",
+    "show_locale_selector": true,
+    "lang_pos": "0",
+    "show_multiple_currencies": false,
+    "auto_currency": false,
+    "currency_type": "1",
+    "flag_currency": false,
+    "size_currency": "sm",
+    "currency_pos": "0",
+    "supported_currencies": "EUR - EUR | USD - USD | GBP - GBP| SEK -SEK",
+    "currency_format": "money_format",
+    "round_currency": false,
+    "notify_currency": false,
+    "mess_currency": "All charges are billed in {{ currency }}. While the content of your cart is currently displayed in <span class=\"selected-currency\"><\/span>, the checkout will use {{ currency }} at the most current exchange rate.",
+    "hover_currency": false,
+    "custom_css": false,
+    "global_css": "",
+    "desktop_css": "",
+    "tablet_mobile_css": "",
+    "tablet_css": "",
+    "mobile_css": "",
+    "custom_js": false,
+    "share_image": "shopify:\/\/shop_images\/Tony_Moly.png",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "share_tumblr": false,
+    "share_email": true,
+    "share_telegram": false,
+    "share_whatsapp": true,
+    "social_facebook_link": "https:\/\/www.facebook.com\/TonyMolyCo\/",
+    "social_twitter_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/tonymoly_colombia\/",
+    "social_dribbble_link": "",
+    "social_linkedin_link": "",
+    "social_pinterest_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCehhVTBmjxOlFCELtwK0fhQ\/videos",
+    "social_behance_link": "",
+    "social_soundcloud_link": "",
+    "favicon": "shopify:\/\/shop_images\/Favicon_Favicon_3.png",
+    "favicon_apple": "shopify:\/\/shop_images\/Favicon_Favicon_3.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Tony_Moly_2.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#fca7e6",
+    "checkout_button_color": "#fca7e6",
+    "checkout_error_color": "#e32c2b",
+    "enable_import": true,
+    "use_eq_thumb_height": false,
+    "img_ratio_thumb": "ratio_nt",
+    "use_eq_nav_height": false,
+    "img_ratio_nav": "ratio_nt",
+    "img_size_nav": "nt_cover",
+    "img_pos_nav": "8",
+    "hide_currency": false,
+    "remove_currency": false,
+    "sup_currency": false,
+    "fv_counter": false,
+    "favicon_animation": "pop",
+    "fv_bgcolor": "#56cfe1",
+    "fv_txtcolor": "#ffffff",
+    "enable_pro_pp": false,
+    "operation_days": "Mon:1700-2100,Tue:1700-2100,Wed:1700-2200,Thu:1700-2200,Fri:1700-2300,Sat:1200-2300,Sun:1200-2100",
+    "timezones": "America\/Los_Angeles",
+    "sale_cl": "#ec0101",
+    "color_body_text": "#555555",
+    "color_price_sale": "#ec0101",
+    "color_lazyload": "#f5f5f5",
+    "color_secondary": "#1b1919",
+    "color_sale": "#ff4e00",
+    "color_new": "#56cfd9",
+    "color_sold_out": "#999",
+    "color_btn_slider": "#f76b6a",
+    "color_btn_slider_text": "#fff",
+    "color_btn_add": "#f76b6a",
+    "color_btn_add_text": "#fff",
+    "color_btn_qv": "#383838",
+    "color_btn_qv_text": "#fff",
+    "color_btn_vc": "#2d2d2d",
+    "color_btn_vc_text": "#fff",
+    "color_btn_ck": "#f76b6a",
+    "color_btn_ck_text": "#fff",
+    "color_threshold_bar": "#ff4b4b",
+    "color_ship": "#f76b6a",
+    "color_ship_bar": "#95bf47",
+    "color_add_page": "#f76b6a",
+    "color_add_page_text": "#fff",
+    "color_add_sticky": "#f76b6a",
+    "color_add_sticky_text": "#fff",
+    "border_color_tab": "#f76b6a",
+    "color_mbnav": "#f76b6a",
+    "color_mbnav_text": "#fff",
+    "color_vernav": "#f76b6a",
+    "color_vernav_text": "#fff",
+    "color_btn_now": "#000",
+    "color_btn_now_text": "#fff",
+    "color_input_new": "#333333",
+    "color_sign_up": "#f76b6a",
+    "color_sign_up_text": "#fff",
+    "color_backtop": "#f76b6a",
+    "color_backtop_text": "#fff",
+    "color_tooltip": "#383838",
+    "color_tooltip_text": "#fff",
+    "font_body_text": "poppins_n4",
+    "size_body_text": 14.5,
+    "body_line_height": 1.2,
+    "font_heading": "poppins_n4",
+    "titles_line_height": 1.4,
+    "size_heading": 36,
+    "size_text_h1": 28,
+    "size_text_h2": 24,
+    "size_text_h3": 22,
+    "size_text_h4": 18,
+    "size_text_h5": 16,
+    "size_text_h6": 12,
+    "fnt_sub_title": "libre_baskerville_i4",
+    "show_back_next_pr": true,
+    "upsell_cart": "",
+    "show_custom_css": false,
+    "show_custom_js": false,
+    "color_sale_50": "#ff4e00",
+    "show_inline_t4css": true,
+    "sections": {
+      "header_top": {
+        "type": "header_top",
+        "blocks": {
+          "header_top-0": {
+            "type": "text",
+            "settings": {
+              "text": "<i class=\"pegk pe-7s-call\"><\/i> 3158305948 <i class=\"pegk pe-7s-mail ml__15\"><\/i> <a class=\"cg\" href=\"mailto:info@tonymolycolombia.com\">info@tonymolycolombia.com<\/a>",
+              "hide": false,
+              "col": "4"
+            }
+          },
+          "header_top-1": {
+            "type": "text",
+            "settings": {
+              "text": "Envíos gratis por compras mayores a <span class=\"cr\">$199.900<\/span>",
+              "hide": false,
+              "col": "4"
+            }
+          },
+          "header_top-2": {
+            "type": "cur",
+            "disabled": true,
+            "settings": {
+              "hide": false,
+              "col": "4"
+            }
+          }
+        },
+        "block_order": [
+          "header_top-0",
+          "header_top-1",
+          "header_top-2"
+        ],
+        "settings": {
+          "height": 45,
+          "fontsize": 14,
+          "cl": "#ffffff",
+          "cl_a": "#222222",
+          "cl_cr": "#ffffff",
+          "bg": "#000000",
+          "bg_op": 100,
+          "show_border": false,
+          "bd_cl": "#000000",
+          "cl_tr": "#f5a1a1",
+          "cl_a_tr": "#f5a1a1",
+          "cl_cr_tr": "#ff6f96",
+          "bg_tr": "#000000",
+          "bg_op_tr": 29,
+          "show_border_tr": true,
+          "bd_cl_tr": "#b3b3b3"
+        }
+      },
+      "footer_top": {
+        "type": "footer_top",
+        "blocks": {
+          "1581507819652": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Tony_Moly_2.png",
+              "logo_width": 100,
+              "title": "",
+              "content": "<p><i class=\"pegk pe-7s-map-marker\"> <\/i><span>Medellin - Colombia <br><br><span> <a href=\"mailto:info@tonymolycolombia.com\">info@tonymolycolombia.com<\/a><\/span><\/span><\/p><p><i class=\"pegk pe-7s-call\"><\/i> <span><a class=\"cg\" href=\"https:\/\/api.whatsapp.com\/send?phone=573158305948\">3158305948 <\/a><\/span><\/p>",
+              "social_mode": "3",
+              "order": "1",
+              "cl": "3",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          },
+          "1581507828337": {
+            "type": "menu",
+            "settings": {
+              "title": "Información",
+              "menu": "conoce-tonymoly",
+              "order": "1",
+              "cl": "15",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          },
+          "1581507840818": {
+            "type": "menu",
+            "settings": {
+              "title": "Servicios",
+              "menu": "servicios",
+              "order": "1",
+              "cl": "3",
+              "cl_tb": "6",
+              "cl_mb": "12"
+            }
+          }
+        },
+        "block_order": [
+          "1581507819652",
+          "1581507828337",
+          "1581507840818"
+        ],
+        "settings": {
+          "sticky": false,
+          "accordions": true,
+          "border": false,
+          "bd_cl": "#ededed",
+          "cl_h": "#222222",
+          "cl": "#878787",
+          "cl_a": "#878787",
+          "cl_ip": "#878787",
+          "bd_ip": "#878787",
+          "cl_btn": "#ffbcbc",
+          "bg": "#f6f6f8",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll",
+          "bg_pos": "center center",
+          "cl_overlay": "#000000",
+          "cl_opacity": 0
+        }
+      },
+      "footer_bot": {
+        "type": "footer_bot",
+        "blocks": {
+          "1581507860120": {
+            "type": "copy",
+            "settings": {
+              "text": "Copyright© [year] Todos los derechos reservados TONYMOLY COLOMBIA."
+            }
+          },
+          "1600705658472": {
+            "type": "payment",
+            "settings": {
+              "source": "1",
+              "image": "shopify:\/\/shop_images\/Logos_Compras_sin_Bancolombia-negro.png",
+              "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,klarna,klarna-pay-later,litecoin,maestro,master,paypal,shopify_pay,sofort,visa",
+              "height": 1
+            }
+          }
+        },
+        "block_order": [
+          "1581507860120",
+          "1600705658472"
+        ],
+        "settings": {
+          "layout": "6",
+          "bg": "#e2e0e0",
+          "cl": "#222222",
+          "cl_a": "#ffffff"
+        }
+      },
+      "nt_custom_color": {
+        "type": "nt_custom_color",
+        "blocks": {
+          "1581560115613": {
+            "type": "bg_color",
+            "settings": {
+              "title": "White Cream",
+              "color_1_c": "#ffffff",
+              "color_2_c": "#000000",
+              "color_img": true
+            }
+          },
+          "1581560307303": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Pink Clay",
+              "color_1_c": "#fcc6de",
+              "color_2_c": "#aa8a6c",
+              "color_img": true
+            }
+          },
+          "1596186843841": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Stripe Lines",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186931972": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Green",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186951989": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Nude",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186969659": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Grey",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186980163": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Dark Blue",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          },
+          "1596186995656": {
+            "type": "bg_color",
+            "settings": {
+              "title": "Brown",
+              "color_1_c": "",
+              "color_2_c": "",
+              "color_img": true
+            }
+          }
+        },
+        "block_order": [
+          "1581560115613",
+          "1581560307303",
+          "1596186843841",
+          "1596186931972",
+          "1596186951989",
+          "1596186969659",
+          "1596186980163",
+          "1596186995656"
+        ],
+        "settings": {
+        }
+      },
+      "cart_widget": {
+        "type": "cart_widget",
+        "blocks": {
+          "cart_widget-0": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "cart_widget-1": {
+            "type": "tax",
+            "settings": {
+            }
+          },
+          "cart_widget-4": {
+            "type": "btnck",
+            "settings": {
+            }
+          },
+          "b23feb51-be1f-4c3b-a9c9-d036dd9dad47": {
+            "type": "btnc",
+            "settings": {
+            }
+          },
+          "cart_widget-5": {
+            "type": "btnmr",
+            "settings": {
+            }
+          },
+          "cart_widget-6": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Logos_Compras_sin_Bancolombia-negro.png"
+            }
+          },
+          "cart_widget-7": {
+            "type": "btn",
+            "settings": {
+              "title": "Regresar a la tienda",
+              "url": "\/",
+              "style": "primary tu"
+            }
+          },
+          "03e54c2e-f80a-450e-b33c-9a16f4ed71a4": {
+            "type": "btn",
+            "settings": {
+              "title": "Buscar productos",
+              "url": "shopify:\/\/collections",
+              "style": "secondary"
+            }
+          }
+        },
+        "block_order": [
+          "cart_widget-0",
+          "cart_widget-1",
+          "cart_widget-4",
+          "b23feb51-be1f-4c3b-a9c9-d036dd9dad47",
+          "cart_widget-5",
+          "cart_widget-6",
+          "cart_widget-7",
+          "03e54c2e-f80a-450e-b33c-9a16f4ed71a4"
+        ],
+        "settings": {
+          "style": "2",
+          "pos": "1",
+          "calc_ship": false,
+          "show_note": true,
+          "show_rates": false,
+          "show_discount": true,
+          "show_gift_wrap": true
+        }
+      },
+      "mb_nav": {
+        "type": "mb_nav",
+        "blocks": {
+          "mb_nav-5": {
+            "type": "sea",
+            "settings": {
+            }
+          },
+          "mb_nav-4": {
+            "type": "wis",
+            "settings": {
+            }
+          },
+          "26f103ab-8d16-4e29-aa86-73f75fa8a160": {
+            "type": "menu",
+            "settings": {
+              "title": "Promo",
+              "url": "",
+              "open_link": "_self",
+              "menu": "promo-del-mes",
+              "icon": "",
+              "lb": "Sale",
+              "lb_cl": "#f41212"
+            }
+          },
+          "88a678cf-a139-4a13-adb5-08cc7e132b6d": {
+            "type": "menu",
+            "settings": {
+              "title": "New Brands🔥",
+              "url": "",
+              "open_link": "_self",
+              "menu": "marcas",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "45674ea6-30fc-483a-983e-b8526c10a5e9": {
+            "type": "menu",
+            "settings": {
+              "title": "Rutinas de cuidado",
+              "url": "shopify:\/\/collections\/all",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "dce92c33-9891-4fed-b18b-819c415e37d4": {
+            "type": "menu",
+            "settings": {
+              "title": "Cuidado Facial",
+              "url": "shopify:\/\/collections\/cuidado-facial-coreano",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "c1b5ff61-e48a-4ae3-b996-bd72e58567d5": {
+            "type": "menu",
+            "settings": {
+              "title": "Fun Products",
+              "url": "shopify:\/\/collections\/productos-divertidos-fun-products",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "092a6a26-3d8b-4f0b-85cb-30bbde0937a0": {
+            "type": "menu",
+            "settings": {
+              "title": "Maquillaje",
+              "url": "shopify:\/\/collections\/maquillaje-coreano",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "bb8b6dc6-582e-4025-8b8f-4a1f20d2d53a": {
+            "type": "menu",
+            "settings": {
+              "title": "Hombre",
+              "url": "shopify:\/\/collections\/all",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "611b13bf-5e4d-42be-8e33-1fcb0da47423": {
+            "type": "menu",
+            "settings": {
+              "title": "K Brands",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1600141717552": {
+            "type": "menu",
+            "settings": {
+              "title": "¿Quieres ser distribuidor?",
+              "url": "shopify:\/\/pages\/quiero-ser-distribuidor",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1585642887352": {
+            "type": "menu",
+            "settings": {
+              "title": "Blog",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "mb_nav-1": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "title": "Nuestras Tiendas",
+              "url": "shopify:\/\/pages\/nuestras-tiendas",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "mb_nav-2": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "title": "Conoce TONYMOLY",
+              "url": "",
+              "open_link": "_self",
+              "menu": "conoce-tonymoly",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "bf73aec5-01c5-4b60-9a3f-a276b9fb6323": {
+            "type": "menu",
+            "settings": {
+              "title": "Ayuda",
+              "url": "",
+              "open_link": "_self",
+              "menu": "ayuda",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "mb_nav-0": {
+            "type": "menu",
+            "disabled": true,
+            "settings": {
+              "title": "Contáctenos",
+              "url": "shopify:\/\/pages\/contactenos",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "mb_nav-6": {
+            "type": "acc",
+            "settings": {
+            }
+          },
+          "mb_nav-7": {
+            "type": "help",
+            "settings": {
+              "title": "Necesitas Ayuda?",
+              "text": "<p><\/p><p><i class=\"pegk pe-7s-mail\"><\/i><span> <a href=\"mailto:info@tonymolycolombia.com\">info@tonymolycolombia.com<\/a><\/span><\/p><p><i class=\"pegk pe-7s-call\"><\/i> <span><a class=\"cg\" href=\"https:\/\/api.whatsapp.com\/send?phone=573158305948\">3158305948<\/a><\/span><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "mb_nav-5",
+          "mb_nav-4",
+          "26f103ab-8d16-4e29-aa86-73f75fa8a160",
+          "88a678cf-a139-4a13-adb5-08cc7e132b6d",
+          "45674ea6-30fc-483a-983e-b8526c10a5e9",
+          "dce92c33-9891-4fed-b18b-819c415e37d4",
+          "c1b5ff61-e48a-4ae3-b996-bd72e58567d5",
+          "092a6a26-3d8b-4f0b-85cb-30bbde0937a0",
+          "bb8b6dc6-582e-4025-8b8f-4a1f20d2d53a",
+          "611b13bf-5e4d-42be-8e33-1fcb0da47423",
+          "1600141717552",
+          "1585642887352",
+          "mb_nav-1",
+          "mb_nav-2",
+          "bf73aec5-01c5-4b60-9a3f-a276b9fb6323",
+          "mb_nav-0",
+          "mb_nav-6",
+          "mb_nav-7"
+        ],
+        "settings": {
+        }
+      },
+      "mb_cat": {
+        "type": "mb_cat",
+        "blocks": {
+          "1585641915360": {
+            "type": "cat",
+            "settings": {
+              "cat": "nuevo",
+              "title": "Nuevos Productos",
+              "menu": "",
+              "lb": "New",
+              "lb_cl": "#ffbcbc",
+              "icons_op": "2",
+              "icon": "las la-plus"
+            }
+          },
+          "1585642130935": {
+            "type": "cat",
+            "disabled": true,
+            "settings": {
+              "cat": "promociones",
+              "title": "Promociones",
+              "menu": "",
+              "lb": "Sale",
+              "lb_cl": "#e32c2b",
+              "icons_op": "2",
+              "icon": "las la-piggy-bank"
+            }
+          },
+          "1585642167981": {
+            "type": "cat",
+            "settings": {
+              "cat": "maquillaje-coreano",
+              "title": "Maquillaje",
+              "menu": "maquillaje",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "gem"
+            }
+          },
+          "1585642277236": {
+            "type": "cat",
+            "settings": {
+              "cat": "cuidado-facial-coreano",
+              "title": "Cuidado Facial",
+              "menu": "cuidado-facial",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-paw"
+            }
+          },
+          "1585642450066": {
+            "type": "cat",
+            "settings": {
+              "cat": "productos-divertidos-fun-products",
+              "title": "Productos Divertidos",
+              "menu": "",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "lar la-grin-stars"
+            }
+          },
+          "1585642600575": {
+            "type": "cat",
+            "settings": {
+              "cat": "hombres",
+              "title": "Hombre",
+              "menu": "",
+              "lb": "",
+              "lb_cl": "#e91e63",
+              "icons_op": "2",
+              "icon": "las la-male"
+            }
+          }
+        },
+        "block_order": [
+          "1585641915360",
+          "1585642130935",
+          "1585642167981",
+          "1585642277236",
+          "1585642450066",
+          "1585642600575"
+        ],
+        "settings": {
+        }
+      },
+      "toolbar_mobile": {
+        "type": "toolbar_mobile",
+        "blocks": {
+          "71a1aa6d-4be4-41ed-ba2b-d858252fe3a0": {
+            "type": "home",
+            "settings": {
+              "title": "Home"
+            }
+          },
+          "a35ce5fe-fa4d-4c89-9ebe-17d7350ba8ee": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "title": "C. Facial",
+              "link": "shopify:\/\/collections\/cuidado-facial-coreano"
+            }
+          },
+          "1600443509337": {
+            "type": "nav",
+            "disabled": true,
+            "settings": {
+              "title": "Menu"
+            }
+          },
+          "1581912867486": {
+            "type": "filter",
+            "disabled": true,
+            "settings": {
+              "title": "Filtro"
+            }
+          },
+          "toolbar_mobile-2": {
+            "type": "cart",
+            "settings": {
+              "title": "Carrito"
+            }
+          },
+          "toolbar_mobile-4": {
+            "type": "search",
+            "disabled": true,
+            "settings": {
+              "title": "Buscar"
+            }
+          },
+          "toolbar_mobile-1": {
+            "type": "wish",
+            "disabled": true,
+            "settings": {
+              "title": "Wishlist"
+            }
+          },
+          "toolbar_mobile-3": {
+            "type": "account",
+            "settings": {
+              "title": "Mi Cuenta"
+            }
+          }
+        },
+        "block_order": [
+          "71a1aa6d-4be4-41ed-ba2b-d858252fe3a0",
+          "a35ce5fe-fa4d-4c89-9ebe-17d7350ba8ee",
+          "1600443509337",
+          "1581912867486",
+          "toolbar_mobile-2",
+          "toolbar_mobile-4",
+          "toolbar_mobile-1",
+          "toolbar_mobile-3"
+        ],
+        "settings": {
+          "show_txt": true
+        }
+      },
+      "1581505806578": {
+        "type": "slideshow",
+        "blocks": {
+          "9eff334d-4d87-4cc5-8e79-73d420a58227": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/BANER-SUPER-AGUA-2.png",
+              "image_mb": "shopify:\/\/shop_images\/BANNER-SUPER-AGUA-1.png",
+              "pos_img": "left center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/set-super-agua-para-pieles-seca",
+              "open_link": "_self",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "94cf78d4-c14f-4e4a-9e6c-f1ff58dded3e": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/portada-del-kit_0b0be759-8c5b-4a9c-b218-33d3fda00b02.jpg",
+              "image_mb": "shopify:\/\/shop_images\/banner-tony-pequeno.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/nuevo-kit-para-todas-las-pieles",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "a975ab99-53b6-4072-bd2c-7df122d7b367": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/BANNER-WEB.jpg",
+              "image_mb": "shopify:\/\/shop_images\/BANNER-WEB2_faf895e1-ca6b-4549-bb7c-c823fdbc6b12.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/kit-amor-y-amistad?_pos=1&_sid=3fdc18a04&_ss=r",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "b0fe406d-ddb0-4953-8847-8c8df6654099": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-sandia.jpg",
+              "image_mb": "shopify:\/\/shop_images\/banner-sandia-fond12.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=SANDIA*",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "5f5bf79e-b3c1-4455-a9da-080952d19fc5": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-aloe-y-te-verde.png",
+              "image_mb": "shopify:\/\/shop_images\/banner-aloe-y-te-verde-perque_1.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/crema-aloe-relajante-aloe-relaxing-cream",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "f3cc8668-9d4a-49db-9042-96f3a901629c": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/LOCOS_POR_LA_PRIMA-02.png",
+              "image_mb": "shopify:\/\/shop_images\/LOCOS_POR_LA_PRIMA-01.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "647d7c8a-bdad-482f-9823-b0c4bc85019b": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/20_1.gif",
+              "image_mb": "shopify:\/\/shop_images\/Diseno_sin_titulo.gif",
+              "pos_img": "center top",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/gel-de-sandia-96",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "8d1e51ec-2e91-4a2a-b125-67cefcb41ac0": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-web1.jpg",
+              "image_mb": "shopify:\/\/shop_images\/banner-web-1-peque.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/poreaway-clear-serum?_pos=2&_sid=b2e0e8cef&_ss=r",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "bca330ae-dd92-4c1e-9262-7efc11661e70": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/BANNER_BLACK_FRIDAY_96cbeb2f-6ec8-4ce2-96f0-65d6f4060625.gif",
+              "image_mb": "shopify:\/\/shop_images\/POST_BLACK_FRIDAY_6db1e2bd-4d03-4bd3-a9a3-bec3494d801c.gif",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "f364ac43-7f1e-45b7-be01-5c07e4e4d6ae": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/30_Dto_39baad8b-db6d-483a-a647-df3512627647.gif",
+              "image_mb": "shopify:\/\/shop_images\/20.gif",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "29679dc5-7dd0-4cc3-be77-72fe9fb1d6b7": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/30_descuento_tony_moly_7609359f-3b43-4329-989b-2da6502a9687.gif",
+              "image_mb": "shopify:\/\/shop_images\/Recuerda_que_el_descuento_se_vera_reflejado_en_tu_canasta_al_momento_de_checkout._1.gif",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "29a6dedf-2dc5-425f-b626-14e190f39112": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2_9e38e9e1-7cc2-4c52-b2b8-0550f10c58c5.jpg",
+              "image_mb": "shopify:\/\/shop_images\/WhatsApp_Image_2023-03-03_at_11.30.51_AM_1.jpg",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "shopify:\/\/products\/protector-solar-uv-master-kids-and-mom-sun-cream",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "4741301b-2085-4a2c-84d7-532cd759355f": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/BANNER-rutinas-1900x351.png",
+              "image_mb": "shopify:\/\/shop_images\/BANNER-rutinas-1100x750.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "8df76294-b2c2-4a51-a9f7-74c57787ba3f": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Mesa_de_trabajo_1_76794520-6c5e-4036-9fde-0c0431c97463.png",
+              "image_mb": "shopify:\/\/shop_images\/Mesa_de_trabajo_1-1_920f52e8-893c-4442-98b9-a2d42d1e6a30.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "shopify:\/\/collections\/productos-rosa",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "f5ec1f09-b0f3-44d6-9262-6734ee1cf105": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Mesa_de_trabajo_2.png",
+              "image_mb": "shopify:\/\/shop_images\/Mesa_de_trabajo_3.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/collections\/promociones",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "aa081203-cb68-42b8-9654-bcd6472eeeba": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Mesa_de_trabajo_4_dca1c265-ce91-496c-b6be-12e455e1b7bb.png",
+              "image_mb": "shopify:\/\/shop_images\/Mesa_de_trabajo_5_caf1152b-b1ef-49c2-8e21-65a2e20e72f9.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/espuma-limpiadora-clean-dew-foam-cleanser?_pos=2&_sid=19abe130c&_ss=r&variant=36058892304537",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "7d85fd08-1a42-4461-b054-d035a4ea4e48": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Mesa_de_trabajo_1_2a36249b-545a-4e01-8688-3e32bbc58a45.png",
+              "image_mb": "shopify:\/\/shop_images\/Mesa_de_trabajo_1-1_d5826c9d-3387-46bf-ad82-d63ddb2618eb.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.instagram.com\/tonymoly_colombia\/",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "779837e4-8a3f-406f-8f26-a948bbf40f69": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Mesa_de_trabajo_1-2.png",
+              "image_mb": "shopify:\/\/shop_images\/Mesa_de_trabajo_1-1_30effb57-8eb2-49cd-a056-168d949cef30.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/esencia-de-te-verde-the-chok-chok-green-tea-watery-essence?_pos=2&_sid=d06936011&_ss=r",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "img_NCnxVt": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Mesa_de_trabajo_6_2110558d-e1ba-4032-8ca2-aea0004d9751.png",
+              "image_mb": "shopify:\/\/shop_images\/Mesa_de_trabajo_7_1610da66-a8a6-41d5-90aa-a83a11741021.png",
+              "pos_img": "center center",
+              "cl_img": "#f5a1a1",
+              "link_img1": "https:\/\/www.tonymolycolombia.com\/products\/gel-de-aloe-vera-aloe-99-chok-chok-soothing?_pos=3&_sid=c92090979&_ss=r",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          },
+          "img_dktkme": {
+            "type": "img",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Conoce_los_multiples_beneficios_que_este_exfoliante_trae_para_ti._c3daf0cc-ab5e-4261-99a3-bf14dca95c1b.png",
+              "image_mb": "shopify:\/\/shop_images\/Banner.png",
+              "pos_img": "center center",
+              "cl_img": "",
+              "link_img1": "",
+              "open_link": "_blank",
+              "caption_w": "2",
+              "cap_v_pos": 50,
+              "cap_h_pos": 39,
+              "txt_align": "tl_md",
+              "cap_v_pos_mb": 50,
+              "cap_h_pos_mb": 39,
+              "txt_align_mb": "tl",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "ani_img": "none",
+              "ani_txt": "none"
+            }
+          }
+        },
+        "block_order": [
+          "9eff334d-4d87-4cc5-8e79-73d420a58227",
+          "94cf78d4-c14f-4e4a-9e6c-f1ff58dded3e",
+          "a975ab99-53b6-4072-bd2c-7df122d7b367",
+          "b0fe406d-ddb0-4953-8847-8c8df6654099",
+          "5f5bf79e-b3c1-4455-a9da-080952d19fc5",
+          "f3cc8668-9d4a-49db-9042-96f3a901629c",
+          "647d7c8a-bdad-482f-9823-b0c4bc85019b",
+          "8d1e51ec-2e91-4a2a-b125-67cefcb41ac0",
+          "bca330ae-dd92-4c1e-9262-7efc11661e70",
+          "f364ac43-7f1e-45b7-be01-5c07e4e4d6ae",
+          "29679dc5-7dd0-4cc3-be77-72fe9fb1d6b7",
+          "29a6dedf-2dc5-425f-b626-14e190f39112",
+          "4741301b-2085-4a2c-84d7-532cd759355f",
+          "8df76294-b2c2-4a51-a9f7-74c57787ba3f",
+          "f5ec1f09-b0f3-44d6-9262-6734ee1cf105",
+          "aa081203-cb68-42b8-9654-bcd6472eeeba",
+          "7d85fd08-1a42-4461-b054-d035a4ea4e48",
+          "779837e4-8a3f-406f-8f26-a948bbf40f69",
+          "img_NCnxVt",
+          "img_dktkme"
+        ],
+        "settings": {
+          "se_height": "adapt",
+          "use_custom_h": "1",
+          "h_des": "350px",
+          "h_tb": "350px",
+          "h_mb": "500px",
+          "effect": "0",
+          "loop": true,
+          "autoplay": true,
+          "au_time": 8,
+          "au_hover": true,
+          "button": true,
+          "btn_vi": "2",
+          "btn_owl": "2",
+          "btn_color": "2",
+          "dot": false,
+          "dot_owl": "2",
+          "dot_color": "1",
+          "layout": "nt_full",
+          "cl_bg": "#efefef",
+          "mg": "",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "header_banner": {
+        "type": "header_banner",
+        "settings": {
+          "link": "shopify:\/\/collections\/trending",
+          "text": "Today deal sale off <strong>70% <\/strong>. End in [countdown].  Hurry Up <i class=\"las la-arrow-right\"><\/i>",
+          "countdown": "2020\/12\/19",
+          "height": 41,
+          "fontsize": 12,
+          "cl": "#ffffff",
+          "bg": "#222222",
+          "bg_op": 100,
+          "show_close": true,
+          "show_icon": false,
+          "txt_btn": "close",
+          "cl_btn": "#fff",
+          "ver": 1,
+          "date": 60
+        }
+      },
+      "cat_shop": {
+        "type": "cat_shop",
+        "blocks": {
+          "1585708473928": {
+            "type": "cat",
+            "settings": {
+              "collection": "promociones",
+              "icon": ""
+            }
+          },
+          "1585708487707": {
+            "type": "cat",
+            "disabled": true,
+            "settings": {
+              "collection": "etude-house",
+              "icon": ""
+            }
+          },
+          "1585708576212": {
+            "type": "cat",
+            "settings": {
+              "collection": "",
+              "icon": ""
+            }
+          },
+          "1585708497192": {
+            "type": "cat",
+            "settings": {
+              "collection": "",
+              "icon": ""
+            }
+          },
+          "1585708590448": {
+            "type": "cat",
+            "settings": {
+              "collection": "",
+              "icon": ""
+            }
+          }
+        },
+        "block_order": [
+          "1585708473928",
+          "1585708487707",
+          "1585708576212",
+          "1585708497192",
+          "1585708590448"
+        ],
+        "settings": {
+          "shown": false,
+          "source": "2",
+          "sort": "alphabetical"
+        }
+      },
+      "cat_heading": {
+        "type": "cat_heading",
+        "blocks": {
+          "1598577239594": {
+            "type": "1",
+            "disabled": true,
+            "settings": {
+            }
+          },
+          "cat_heading-1": {
+            "type": "2",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "1598577239594",
+          "cat_heading-1"
+        ],
+        "settings": {
+          "shown": false,
+          "image": "{{ shop.brand.square_logo }}",
+          "use_specify_image": true,
+          "parallax": false,
+          "color": "#ffffff",
+          "overlay": 0,
+          "padding": 100,
+          "bg_pos": "center top",
+          "bg_repeat": "repeat-x",
+          "bg_size": "cover",
+          "bg_att": "inherit"
+        }
+      },
+      "nt_filter": {
+        "type": "nt_filter",
+        "blocks": {
+          "1581909372373": {
+            "type": "color",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Color",
+              "arra_enter": "Red,White,Brown,Blue, Black, Green, Grey, Sliver,Pink",
+              "use_auto_filter_tag": true,
+              "key": "Color"
+            }
+          },
+          "1581914074326": {
+            "type": "other",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Price",
+              "arra_enter": "",
+              "use_auto_filter_tag": true,
+              "key": "Price",
+              "style": "ck"
+            }
+          },
+          "1581913909406": {
+            "type": "other",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Size",
+              "arra_enter": "",
+              "use_auto_filter_tag": true,
+              "key": "Size",
+              "style": "ck"
+            }
+          },
+          "1581913174211": {
+            "type": "brand",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Brand",
+              "arra_enter": "",
+              "use_auto_filter_tag": true,
+              "key": "Vendor",
+              "style": "ck"
+            }
+          }
+        },
+        "block_order": [
+          "1581909372373",
+          "1581914074326",
+          "1581913909406",
+          "1581913174211"
+        ],
+        "settings": {
+        }
+      },
+      "collection_page": {
+        "type": "collection_page",
+        "settings": {
+          "limit": 12,
+          "space": 30,
+          "use_pagination": "infinite",
+          "use_bar_lm": true,
+          "col_pr": "3",
+          "col_pr_tb": "4",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": true,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "article-heading": {
+        "type": "article-heading",
+        "blocks": {
+          "article-heading-0": {
+            "type": "1",
+            "settings": {
+            }
+          },
+          "article-heading-1": {
+            "type": "2",
+            "settings": {
+            }
+          },
+          "article-heading-2": {
+            "type": "3",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "article-heading-0",
+          "article-heading-1",
+          "article-heading-2"
+        ],
+        "settings": {
+          "shown": true,
+          "image": "",
+          "use_specify_image": true,
+          "parallax": true,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "blocks": {
+          "article-template-0": {
+            "type": "content",
+            "settings": {
+            }
+          },
+          "article-template-1": {
+            "type": "tags",
+            "settings": {
+            }
+          },
+          "article-template-2": {
+            "type": "social",
+            "settings": {
+              "follow": false,
+              "tooltip": true,
+              "des": "2"
+            }
+          },
+          "article-template-3": {
+            "type": "nav",
+            "settings": {
+            }
+          },
+          "article-template-4": {
+            "type": "related",
+            "settings": {
+              "title": "Related Articles",
+              "t_center": true,
+              "limit": 5,
+              "date": "date",
+              "col_pr": "4",
+              "col_pr_tb": "4",
+              "col_pr_mb": "12",
+              "loop": false,
+              "au_time": 0,
+              "au_hover": true,
+              "button": true,
+              "btn_vi": "2",
+              "btn_owl": "1",
+              "btn_color": "0",
+              "dot": true,
+              "dot_owl": "1",
+              "dot_color": "1",
+              "use_eq_height": true,
+              "image_ratio": "ratio4_3",
+              "image_size": "nt_cover",
+              "image_position": "8"
+            }
+          },
+          "article-template-5": {
+            "type": "comments",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "article-template-0",
+          "article-template-1",
+          "article-template-2",
+          "article-template-3",
+          "article-template-4",
+          "article-template-5"
+        ],
+        "settings": {
+        }
+      },
+      "pr_summary": {
+        "type": "pr_summary",
+        "blocks": {
+          "pr_summary-0": {
+            "type": "title",
+            "settings": {
+              "size": 21
+            }
+          },
+          "pr_summary-1": {
+            "type": "pricereview",
+            "settings": {
+              "price": "0",
+              "rating": true
+            }
+          },
+          "pr_summary-2": {
+            "type": "des",
+            "settings": {
+              "des": "2",
+              "page": "",
+              "length": 31,
+              "readm": false,
+              "readm_txt": "Read more"
+            }
+          },
+          "pr_summary-3": {
+            "type": "frm",
+            "settings": {
+              "ani": "shake",
+              "time": 6,
+              "btn_des": "1",
+              "btn_txt": "3",
+              "swatch_design": "2",
+              "style_color": "1",
+              "swatch_style": "1",
+              "swatch_size": "medium",
+              "show_qty": true,
+              "btn_atc_full": false,
+              "enable_payment_btn": false
+            }
+          },
+          "1585709158220": {
+            "type": "img",
+            "settings": {
+              "mess": "",
+              "size": 16,
+              "source": "1",
+              "image": "shopify:\/\/shop_images\/Logos_Compras_sin_Bancolombia-negro.png",
+              "al": "tl",
+              "wimg": 89,
+              "svg": "",
+              "height": 34
+            }
+          },
+          "pr_summary-4": {
+            "type": "size",
+            "settings": {
+              "size_chart": "1",
+              "sc_type": "1",
+              "page": "",
+              "size_ck": "",
+              "delivery": true,
+              "page_dr": "envio-devoluciones",
+              "ask": true
+            }
+          },
+          "pr_summary-6": {
+            "type": "social",
+            "settings": {
+              "class": "tdf"
+            }
+          },
+          "1596202526109": {
+            "type": "order",
+            "settings": {
+              "icon": "2",
+              "icon_name": "truck",
+              "fade": true,
+              "txt": "Ordena en la próximas [hour] \npara recibirlo entre [date_start] y [date_end].\n*Después de confirmar tu pago.(No aplica para todas las ciudades)",
+              "ds": 5,
+              "de": 12,
+              "cut": "SAT,SUN",
+              "frm": "1",
+              "timezone": false,
+              "time": "16:00:00",
+              "hr": "Hora",
+              "min": "Minutos"
+            }
+          },
+          "d5ad81f9-c500-43ed-b0ab-46f73fe1f4c4": {
+            "type": "accordion",
+            "settings": {
+              "title": "¿Por que es genial?",
+              "content": "{{ product.description }}"
+            }
+          },
+          "0efa15d9-3b33-43f6-b9ea-aee3351d7a79": {
+            "type": "accordion",
+            "settings": {
+              "title": "Ingredientes",
+              "content": "{{ product.metafields.feature.ingredients | metafield_tag }}"
+            }
+          },
+          "7be55a0b-f6d2-4130-be4d-fb5d2478dda0": {
+            "type": "accordion",
+            "settings": {
+              "title": "Modo de Uso",
+              "content": "{{ product.metafields.description.use | metafield_tag }}"
+            }
+          }
+        },
+        "block_order": [
+          "pr_summary-0",
+          "pr_summary-1",
+          "pr_summary-2",
+          "pr_summary-3",
+          "1585709158220",
+          "pr_summary-4",
+          "pr_summary-6",
+          "1596202526109",
+          "d5ad81f9-c500-43ed-b0ab-46f73fe1f4c4",
+          "0efa15d9-3b33-43f6-b9ea-aee3351d7a79",
+          "7be55a0b-f6d2-4130-be4d-fb5d2478dda0"
+        ],
+        "settings": {
+        }
+      },
+      "pr_description": {
+        "type": "pr_description",
+        "blocks": {
+          "pr_description-0": {
+            "type": "des",
+            "settings": {
+              "title": "Descripción"
+            }
+          },
+          "pr_description-2": {
+            "type": "rivui",
+            "settings": {
+              "title": "Reviews"
+            }
+          }
+        },
+        "block_order": [
+          "pr_description-0",
+          "pr_description-2"
+        ],
+        "settings": {
+          "show": true,
+          "bgcl": "#f6f6f8",
+          "bgclmb": "#ffffff",
+          "des_w": "3",
+          "des_mb": "2",
+          "auto": false,
+          "mg": "30px,,30px,",
+          "mg_mb": "0,,0,"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show": true,
+          "title": "Tambien te puede gustar",
+          "sub_title": "",
+          "sub_font": "1",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "display_type": "3",
+          "limit": 6,
+          "space": 30,
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "recently_viewed": {
+        "type": "recently_viewed",
+        "settings": {
+          "show": false,
+          "unavailable_prs": "show",
+          "title": "Recently viewed products",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "limit": 6,
+          "sortby": "3",
+          "space": 30,
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "list_cat_heading": {
+        "type": "list_cat_heading",
+        "settings": {
+          "shown": true,
+          "use_specify_image": true,
+          "parallax": false,
+          "color": "#000000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "layout": "default",
+          "hoverz": true,
+          "cat_design": "5",
+          "cat_space": "30",
+          "display_type": "all",
+          "sort": "alphabetical",
+          "col": "4",
+          "col_md": "3",
+          "col_mb": "6",
+          "pr_txt": "products",
+          "use_eq_height": true,
+          "image_ratio": "ratio1_1"
+        }
+      },
+      "cart_heading": {
+        "type": "cart_heading",
+        "blocks": {
+          "cart_heading-0": {
+            "type": "1",
+            "settings": {
+              "title": "Carrito"
+            }
+          }
+        },
+        "block_order": [
+          "cart_heading-0"
+        ],
+        "settings": {
+          "parallax": false,
+          "color": "#000000",
+          "overlay": 50,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "blocks": {
+          "cart-template-0": {
+            "type": "price",
+            "settings": {
+            }
+          },
+          "cart-template-1": {
+            "type": "tax",
+            "settings": {
+            }
+          },
+          "cart-template-3": {
+            "type": "btnck",
+            "settings": {
+            }
+          },
+          "cart-template-4": {
+            "type": "btnmr",
+            "settings": {
+            }
+          },
+          "cart-template-5": {
+            "type": "img",
+            "settings": {
+              "wimg": 50
+            }
+          },
+          "17ca039c-16d4-4840-a2aa-c15ea4df64c0": {
+            "type": "btn2",
+            "settings": {
+              "title": "Seguir Comprando",
+              "url": "shopify:\/\/collections",
+              "style": "secondary"
+            }
+          },
+          "cart-template-6": {
+            "type": "btn",
+            "settings": {
+              "title": "Ver colección",
+              "url": "shopify:\/\/collections",
+              "style": "primary tu"
+            }
+          }
+        },
+        "block_order": [
+          "cart-template-0",
+          "cart-template-1",
+          "cart-template-3",
+          "cart-template-4",
+          "cart-template-5",
+          "17ca039c-16d4-4840-a2aa-c15ea4df64c0",
+          "cart-template-6"
+        ],
+        "settings": {
+          "ajax_enable": true,
+          "calc_ship": false,
+          "show_note": true,
+          "show_rates": false,
+          "show_discount": true,
+          "show_gift_wrap": false
+        }
+      },
+      "cart_upsell": {
+        "type": "cart_upsell",
+        "settings": {
+          "show_section": true,
+          "title": "Complete your cart",
+          "sub_title": "",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "",
+          "limit": 6,
+          "space_cat": "30",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "sale_countdown": false,
+          "collection_countdown_style": "dark",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "blog-heading": {
+        "type": "blog-heading",
+        "blocks": {
+          "blog-heading-0": {
+            "type": "1",
+            "settings": {
+            }
+          },
+          "blog-heading-1": {
+            "type": "2",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "blog-heading-0",
+          "blog-heading-1"
+        ],
+        "settings": {
+          "shown": true,
+          "image": "",
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "shop_des": "default",
+          "art_des": "1",
+          "limit": 5,
+          "space": 40,
+          "use_pagination": "default",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_style": "default",
+          "date": "date",
+          "col_pr": "6",
+          "col_pr_tb": "6",
+          "col_pr_mb": "12",
+          "show_au": false,
+          "show_dt": true,
+          "show_cm": false,
+          "show_tg": true,
+          "cl": "#fff",
+          "cl2": "#878787",
+          "bg": "#000",
+          "overlay": 90,
+          "des_cnt": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio4_3",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "source": "0",
+          "count": true
+        }
+      },
+      "blog-slider": {
+        "type": "blog-slider",
+        "settings": {
+          "blog": "",
+          "limit": 6,
+          "date": "date",
+          "col_pr": "4",
+          "col_pr_tb": "4",
+          "col_pr_mb": "12",
+          "show_au": true,
+          "show_dt": true,
+          "loop": false,
+          "au_time": 0,
+          "au_hover": true,
+          "button": true,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "cl": "#fff",
+          "cl2": "#878787",
+          "bg": "#000",
+          "overlay": 80,
+          "use_eq_height": true,
+          "image_ratio": "ratio4_3",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "layout": "nt_full"
+        }
+      },
+      "bptf-heading": {
+        "type": "bptf-heading",
+        "blocks": {
+          "bptf-heading-0": {
+            "type": "1",
+            "settings": {
+            }
+          },
+          "bptf-heading-1": {
+            "type": "2",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "bptf-heading-0",
+          "bptf-heading-1"
+        ],
+        "settings": {
+          "shown": true,
+          "image": "",
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "bptf-template": {
+        "type": "bptf-template",
+        "settings": {
+          "ptf_layout": "default",
+          "shop_des": "masonry",
+          "limit": 5,
+          "space": 30,
+          "use_pagination": "default",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_style": "default",
+          "col_pr": "6",
+          "col_pr_tb": "6",
+          "col_pr_mb": "12",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "source": "1",
+          "count": true
+        }
+      },
+      "aptf-heading": {
+        "type": "aptf-heading",
+        "blocks": {
+          "aptf-heading-0": {
+            "type": "1",
+            "settings": {
+            }
+          },
+          "aptf-heading-1": {
+            "type": "2",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "aptf-heading-0",
+          "aptf-heading-1"
+        ],
+        "settings": {
+          "shown": true,
+          "image": "",
+          "use_specify_image": true,
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "aptf-template": {
+        "type": "aptf-template",
+        "blocks": {
+          "aptf-template-0": {
+            "type": "content",
+            "settings": {
+            }
+          },
+          "aptf-template-1": {
+            "type": "infos",
+            "settings": {
+              "cat": true,
+              "author": true,
+              "tags": true
+            }
+          },
+          "aptf-template-2": {
+            "type": "social",
+            "settings": {
+              "follow": false,
+              "tooltip": true,
+              "des": "2"
+            }
+          },
+          "aptf-template-3": {
+            "type": "nav",
+            "settings": {
+            }
+          },
+          "aptf-template-4": {
+            "type": "related",
+            "settings": {
+              "title": "Related Portfolio",
+              "t_center": true,
+              "limit": 5,
+              "date": "date",
+              "col_pr": "4",
+              "col_pr_tb": "4",
+              "col_pr_mb": "12",
+              "loop": false,
+              "au_time": 0,
+              "au_hover": true,
+              "button": true,
+              "btn_vi": "2",
+              "btn_owl": "1",
+              "btn_color": "0",
+              "dot": true,
+              "dot_owl": "1",
+              "dot_color": "1",
+              "use_eq_height": false,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_cover",
+              "image_position": "8"
+            }
+          }
+        },
+        "block_order": [
+          "aptf-template-0",
+          "aptf-template-1",
+          "aptf-template-2",
+          "aptf-template-3",
+          "aptf-template-4"
+        ],
+        "settings": {
+          "ptf_layout": "default"
+        }
+      },
+      "pages_heading": {
+        "type": "pages_heading",
+        "blocks": {
+          "pages_heading-0": {
+            "type": "1",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "pages_heading-0"
+        ],
+        "settings": {
+          "parallax": false,
+          "color": "#000000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "sticky_atc": {
+        "type": "sticky_atc",
+        "settings": {
+          "mb": true,
+          "ani": "none",
+          "time": 6
+        }
+      },
+      "sales_popup": {
+        "type": "sales_popup",
+        "settings": {
+          "collection_id": "promociones",
+          "limit": 50,
+          "index": true,
+          "product": true,
+          "collection": false,
+          "article": false,
+          "blog": false,
+          "cart": false,
+          "page": false,
+          "pp_type": "2",
+          "start_time": 5,
+          "start_time_unit": "1000",
+          "stay_time": 10,
+          "stay_time_unit": "1000",
+          "show_cl": true,
+          "show_qv": true,
+          "list_user": "Nathan (California) | Alex (Texas) | Henry (New York) | Kiti (Ohio) | Daniel (Washington) | Hau (California) | Van (Ohio) | Sara (Montana)  | Kate (Georgia)",
+          "show_time": true,
+          "list_time": "4 hours ago | 2 hours ago | 45 minutes ago | 1 day ago | 8 hours ago | 10 hours ago | 25 minutes ago | 2 day ago | 5 hours ago | 40 minutes ago",
+          "show_verify": true,
+          "des": "1",
+          "pp_ani": "anislideInUp",
+          "txt1": "purchased",
+          "txt2": "Verified"
+        }
+      },
+      "promo_pr_pp": {
+        "type": "promo_pr_pp",
+        "settings": {
+          "title": "¡Espera! ¿No encuentras lo que buscas?",
+          "sub_title": "Tal vez esto guste...",
+          "sub_font": "1",
+          "btn_title": "See all products",
+          "style_title": "title_2",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection_id": "promociones",
+          "limit": 8,
+          "col_pr": "4",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "2",
+          "btn_color": "0",
+          "dot": false,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "index": true,
+          "product": false,
+          "collection": false,
+          "article": false,
+          "blog": false,
+          "cart": false,
+          "page": false,
+          "day_next": 1
+        }
+      },
+      "re_upsell": {
+        "type": "re_upsell",
+        "settings": {
+          "title": "You may also like",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_2",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "display_type": "3",
+          "limit": 6,
+          "space": 30,
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "page_meta_ntt4": {
+        "type": "page_meta_ntt4",
+        "settings": {
+        }
+      },
+      "img_meta_ntt4": {
+        "type": "img_meta_ntt4",
+        "settings": {
+        }
+      },
+      "sidebar_shop": {
+        "type": "sidebar_shop",
+        "settings": {
+        }
+      },
+      "header_2": {
+        "type": "header_2",
+        "blocks": {
+          "header_2-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_2-1": {
+            "type": "logo",
+            "settings": {
+            }
+          },
+          "header_2-2": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_2-0",
+          "header_2-1",
+          "header_2-2"
+        ],
+        "settings": {
+          "height": 62,
+          "arrow": false,
+          "source": "1",
+          "txt": "Welcome to our store!",
+          "social": "2",
+          "align": "tc",
+          "hover": "hover_side_up"
+        }
+      },
+      "header_4": {
+        "type": "header_4",
+        "blocks": {
+          "header_4-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_4-1": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_4-0",
+          "header_4-1"
+        ],
+        "settings": {
+          "height": 62,
+          "height_2": 63,
+          "arrow": false,
+          "border": true,
+          "color": "#ececec",
+          "source": "1",
+          "txt": "Welcome to our store!",
+          "social": "2",
+          "align": "tc",
+          "hover": "hover_side_up"
+        }
+      },
+      "header_5": {
+        "type": "header_5",
+        "blocks": {
+          "header_5-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_5-1": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_5-0",
+          "header_5-1"
+        ],
+        "settings": {
+          "height": 62,
+          "arrow": false,
+          "align": "tl",
+          "hover": "hover_side_up"
+        }
+      },
+      "header_6": {
+        "type": "header_6",
+        "settings": {
+          "height": 62,
+          "source": "2",
+          "txt": "Welcome to our store!",
+          "social": "2"
+        }
+      },
+      "header_7": {
+        "type": "header_7",
+        "blocks": {
+          "header_7-0": {
+            "type": "menu",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_7-1": {
+            "type": "menu",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_7-0",
+          "header_7-1"
+        ],
+        "settings": {
+          "show_currencies": true,
+          "source": "2",
+          "txt": "Welcome to our store!",
+          "social": "2"
+        }
+      },
+      "header_8": {
+        "type": "header_8",
+        "blocks": {
+          "1600190722016": {
+            "type": "mega",
+            "settings": {
+              "title": "NUEVOS PRODUCTOS",
+              "url": "shopify:\/\/collections\/nuevo",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "pos": "default",
+              "wid": "cus",
+              "cus_wid": 1200
+            }
+          },
+          "1599968832293": {
+            "type": "pr",
+            "settings": {
+              "limit": 3,
+              "id_cat": "nuevo",
+              "column_pr": 3,
+              "pr_des": "1",
+              "show_vendor": false,
+              "use_cdt": false,
+              "round_cd": false,
+              "cdt_des": "1",
+              "use_eq_height": false,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_contain",
+              "image_position": "8",
+              "col": "8"
+            }
+          },
+          "1595496150224": {
+            "type": "mega",
+            "settings": {
+              "title": "PROMOCIONES",
+              "url": "shopify:\/\/collections\/promociones",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "SALE",
+              "lb_cl": "#ffbcbc",
+              "pos": "center",
+              "wid": "full nav_t4cnt",
+              "cus_wid": 1000
+            }
+          },
+          "d579eb77-54c3-4c05-8b26-ed75e535ebdc": {
+            "type": "link",
+            "settings": {
+              "tt_hd": "Promo del mes",
+              "url": "shopify:\/\/collections\/productos-rosa",
+              "open_link": "_self",
+              "menu": "promo-del-mes",
+              "col": "12"
+            }
+          },
+          "4be9d1fb-bfed-4766-a5dc-0da3660bd78c": {
+            "type": "banner",
+            "disabled": true,
+            "settings": {
+              "url": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0,
+              "col": "4"
+            }
+          },
+          "7348aafb-5734-48f6-8c70-9e08e0f8cdb5": {
+            "type": "link",
+            "disabled": true,
+            "settings": {
+              "tt_hd": "Heading",
+              "url": "",
+              "open_link": "_self",
+              "menu": "",
+              "col": "4"
+            }
+          },
+          "1595496187793": {
+            "type": "pr",
+            "disabled": true,
+            "settings": {
+              "limit": 8,
+              "id_cat": "promociones",
+              "column_pr": 4,
+              "pr_des": "1",
+              "show_vendor": false,
+              "use_cdt": false,
+              "round_cd": false,
+              "cdt_des": "3",
+              "use_eq_height": true,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_contain",
+              "image_position": "8",
+              "col": "8"
+            }
+          },
+          "1598569752216": {
+            "type": "dropdown",
+            "settings": {
+              "title": "MAQUILLAJE",
+              "url": "shopify:\/\/collections\/maquillaje-coreano",
+              "open_link": "_self",
+              "menu": "maquillaje",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "pos": "right"
+            }
+          },
+          "1598570402882": {
+            "type": "dropdown",
+            "settings": {
+              "title": "CUIDADO FACIAL",
+              "url": "shopify:\/\/collections\/cuidado-facial-coreano",
+              "open_link": "_self",
+              "menu": "cuidado-facial",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "pos": "right"
+            }
+          },
+          "1600140574465": {
+            "type": "mega",
+            "settings": {
+              "title": "FUN PRODUCTS",
+              "url": "shopify:\/\/collections\/productos-divertidos-fun-products",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "pos": "default",
+              "wid": "cus",
+              "cus_wid": 1200
+            }
+          },
+          "1600140018440": {
+            "type": "pr",
+            "settings": {
+              "limit": 3,
+              "id_cat": "hombres",
+              "column_pr": 4,
+              "pr_des": "1 tc",
+              "show_vendor": false,
+              "use_cdt": false,
+              "round_cd": false,
+              "cdt_des": "1",
+              "use_eq_height": true,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_contain",
+              "image_position": "8",
+              "col": "8"
+            }
+          },
+          "1600140530835": {
+            "type": "pr",
+            "disabled": true,
+            "settings": {
+              "limit": 6,
+              "id_cat": "productos-divertidos-fun-products",
+              "column_pr": 4,
+              "pr_des": "1",
+              "show_vendor": false,
+              "use_cdt": false,
+              "round_cd": false,
+              "cdt_des": "1",
+              "use_eq_height": true,
+              "image_ratio": "ratio_nt",
+              "image_size": "nt_cover",
+              "image_position": "8",
+              "col": "8"
+            }
+          },
+          "8c666248-7458-4d3b-993e-ae46d806975a": {
+            "type": "dropdown",
+            "disabled": true,
+            "settings": {
+              "title": "NEW BRANDS💥",
+              "url": "shopify:\/\/collections\/cosmeka",
+              "open_link": "_self",
+              "menu": "marcas",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "LOVE IS LOVE",
+              "lb_cl": "#997eff",
+              "pos": "right"
+            }
+          },
+          "84ca5c36-9f25-4395-a763-4e559f94d8b9": {
+            "type": "dropdown",
+            "settings": {
+              "title": "MASKIN🐼",
+              "url": "shopify:\/\/collections\/mascarillas",
+              "open_link": "_self",
+              "menu": "rutinas",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "pos": "right"
+            }
+          },
+          "e08e492f-1565-4d3b-822c-45dc5f222342": {
+            "type": "dropdown",
+            "disabled": true,
+            "settings": {
+              "title": "KITS MAMÁ",
+              "url": "https:\/\/www.tonymolycolombia.com\/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=kitmama*",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "SALE",
+              "lb_cl": "#ffbcbc",
+              "pos": "left"
+            }
+          }
+        },
+        "block_order": [
+          "1600190722016",
+          "1599968832293",
+          "1595496150224",
+          "d579eb77-54c3-4c05-8b26-ed75e535ebdc",
+          "4be9d1fb-bfed-4766-a5dc-0da3660bd78c",
+          "7348aafb-5734-48f6-8c70-9e08e0f8cdb5",
+          "1595496187793",
+          "1598569752216",
+          "1598570402882",
+          "1600140574465",
+          "1600140018440",
+          "1600140530835",
+          "8c666248-7458-4d3b-993e-ae46d806975a",
+          "84ca5c36-9f25-4395-a763-4e559f94d8b9",
+          "e08e492f-1565-4d3b-822c-45dc5f222342"
+        ],
+        "settings": {
+          "height": 61,
+          "height_2": 50,
+          "arrow": true,
+          "border": true,
+          "color": "#dddddd",
+          "align": "tl",
+          "hover": "hover_fade_in",
+          "bg": "#ffffff",
+          "cl_txt": "#020202",
+          "text": "",
+          "shop_cat": false,
+          "txt_cat": "LINKS DE INTERES",
+          "bgcat": "#383838",
+          "clcat": "#ffffff"
+        }
+      },
+      "hcat_nav": {
+        "type": "hcat_nav",
+        "blocks": {
+          "hcat_nav-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Mi Cuenta",
+              "url": "https:\/\/www.tonymolycolombia.com\/account\/login",
+              "icons_op": "2",
+              "icon": "las la-user",
+              "cus_cl": false,
+              "cl": "#ffbcbc",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "hcat_nav-1": {
+            "type": "simple",
+            "settings": {
+              "title": "Wish List",
+              "url": "https:\/\/tonymolycolombia.myshopify.com\/search?view=wish",
+              "icons_op": "2",
+              "icon": "las la-heart",
+              "cus_cl": false,
+              "cl": "#ffbcbc",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1e3aba84-0894-442b-b7df-d2524b555ed1": {
+            "type": "simple",
+            "settings": {
+              "title": "Conviértete en mayorista",
+              "url": "https:\/\/docs.google.com\/forms\/d\/1dKvrdq_WiwOrCBXV6gAA6slJnii-f7k2UUuLWaOjd6k\/viewform?ts=61a78755&edit_requested=true#settings",
+              "icons_op": "2",
+              "icon": "chair",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1600141466879": {
+            "type": "simple",
+            "disabled": true,
+            "settings": {
+              "title": "Nuestras tiendas",
+              "url": "shopify:\/\/pages\/nuestras-tiendas",
+              "icons_op": "2",
+              "icon": "las la-store",
+              "cus_cl": false,
+              "cl": "#ffbcbc",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1599970394033": {
+            "type": "simple",
+            "settings": {
+              "title": "Blog",
+              "url": "shopify:\/\/blogs\/noticias",
+              "icons_op": "2",
+              "icon": "las la-rss",
+              "cus_cl": false,
+              "cl": "#ffbcbc",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1599969060031": {
+            "type": "simple",
+            "disabled": true,
+            "settings": {
+              "title": "Quiero ser distribuidor",
+              "url": "shopify:\/\/pages\/quiero-ser-distribuidor",
+              "icons_op": "2",
+              "icon": "las la-hand-holding-usd",
+              "cus_cl": false,
+              "cl": "#ffbcbc",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "1599970609685": {
+            "type": "simple",
+            "settings": {
+              "title": "Preguntas Frecuentes",
+              "url": "shopify:\/\/pages\/preguntas-frecuentes",
+              "icons_op": "2",
+              "icon": "lar la-question-circle",
+              "cus_cl": false,
+              "cl": "#ffbcbc",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "hcat_nav-0",
+          "hcat_nav-1",
+          "1e3aba84-0894-442b-b7df-d2524b555ed1",
+          "1600141466879",
+          "1599970394033",
+          "1599969060031",
+          "1599970609685"
+        ],
+        "settings": {
+        }
+      },
+      "1596105095030": {
+        "type": "banner2",
+        "blocks": {
+          "1596105095030-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/facial.png",
+              "url": "shopify:\/\/collections\/cuidado-especial",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "3",
+              "col_pr_mb": "6",
+              "html": "CUIDADO FACIAL",
+              "cap_v_pos": 100,
+              "cap_h_pos": 100,
+              "txt_align": "tc",
+              "cl_txt": "#161616",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1596105095030-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/mascarilla.png",
+              "url": "shopify:\/\/collections\/mascarillas",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "3",
+              "col_pr_mb": "6",
+              "html": "MASCARILLA",
+              "cap_v_pos": 100,
+              "cap_h_pos": 100,
+              "txt_align": "tc",
+              "cl_txt": "#161616",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599192589346": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/tonymoly.png",
+              "url": "shopify:\/\/collections\/productos-divertidos-fun-products",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "3",
+              "col_pr_mb": "6",
+              "html": "FAN PRODUCTS",
+              "cap_v_pos": 100,
+              "cap_h_pos": 100,
+              "txt_align": "tc",
+              "cl_txt": "#161616",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599192720450": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/kit.png",
+              "url": "shopify:\/\/collections\/promociones",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "3",
+              "col_pr_mb": "6",
+              "html": "PROMOCIONES",
+              "cap_v_pos": 100,
+              "cap_h_pos": 100,
+              "txt_align": "tc",
+              "cl_txt": "#161616",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "1596105095030-1",
+          "1596105095030-0",
+          "1599192589346",
+          "1599192720450"
+        ],
+        "custom_css": [
+          ".cat_space_30 .cat_space_item {position: static !important;}",
+          ".nt_promotion {padding-bottom: 3em;}"
+        ],
+        "settings": {
+          "title": "Según tu Necesidad",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "hoverz": false,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "30px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1596162174468": {
+        "type": "newsletter2",
+        "disabled": true,
+        "settings": {
+          "title": "<span style=\"font-family: Futura; font-weight: 400; \">Subscribe Now! <\/span>",
+          "sub_title": "Newsletter For Getting Daily Updates",
+          "newl_des": "1",
+          "btn_icon": false,
+          "cl_overlay": "#000000",
+          "cl_opacity": 0,
+          "se_bg": "#ffffff",
+          "color": "light",
+          "use_pr": false,
+          "layout": "container",
+          "mg": "",
+          "pd": "50px,,20px,",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "nt_filter2": {
+        "type": "nt_filter2",
+        "blocks": {
+          "nt_filter2-0": {
+            "type": "title",
+            "settings": {
+              "hidden_block": false,
+              "title": "Por Nombre"
+            }
+          },
+          "nt_filter2-1": {
+            "type": "price",
+            "settings": {
+              "hidden_block": false,
+              "title": "Por Precio"
+            }
+          },
+          "nt_filter2-5": {
+            "type": "available",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "Disponibilidad"
+            }
+          },
+          "1599452868016": {
+            "type": "tags",
+            "settings": {
+              "hidden_block": false,
+              "count": false,
+              "title": "Categoria",
+              "style": "tag"
+            }
+          }
+        },
+        "block_order": [
+          "nt_filter2-0",
+          "nt_filter2-1",
+          "nt_filter2-5",
+          "1599452868016"
+        ],
+        "settings": {
+        }
+      },
+      "sidebar_shop2": {
+        "type": "sidebar_shop2",
+        "blocks": {
+          "sidebar_shop2-0": {
+            "type": "title",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Title"
+            }
+          },
+          "sidebar_shop2-1": {
+            "type": "price",
+            "settings": {
+              "hidden_block": false,
+              "title": "By Price"
+            }
+          },
+          "sidebar_shop2-2": {
+            "type": "variants",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "By Size",
+              "key": "Size",
+              "style": "ck"
+            }
+          },
+          "sidebar_shop2-3": {
+            "type": "color",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "By Color",
+              "key": "Color"
+            }
+          },
+          "sidebar_shop2-4": {
+            "type": "vendor",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "By Vendor",
+              "style": "ck"
+            }
+          },
+          "sidebar_shop2-5": {
+            "type": "available",
+            "settings": {
+              "hidden_block": false,
+              "count": true,
+              "title": "By Available"
+            }
+          }
+        },
+        "block_order": [
+          "sidebar_shop2-0",
+          "sidebar_shop2-1",
+          "sidebar_shop2-2",
+          "sidebar_shop2-3",
+          "sidebar_shop2-4",
+          "sidebar_shop2-5"
+        ],
+        "settings": {
+        }
+      },
+      "1599192833528": {
+        "type": "banner",
+        "blocks": {
+          "1599192833528-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/slider-06.jpg",
+              "img_align": "center",
+              "url": "shopify:\/\/collections\/mascarillas",
+              "open_link": "_self",
+              "cat_design": "1",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_center"
+            }
+          },
+          "1599192970655": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/slider-07_ac25e603-b933-434a-8d0e-3793d416fb2e.jpg",
+              "img_align": "center",
+              "url": "https:\/\/www.tonymolycolombia.com\/search?type=product&options%5Bunavailable_products%5D=last&options%5Bprefix%5D=none&q=piel%20sensible*",
+              "open_link": "_self",
+              "cat_design": "1",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_center"
+            }
+          },
+          "1599192973775": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/slider-08.jpg",
+              "img_align": "center",
+              "url": "shopify:\/\/collections\/serums-y-ampollas",
+              "open_link": "_self",
+              "cat_design": "1",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_center"
+            }
+          },
+          "1599192833528-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/slider-05_f09158b7-018a-4db2-b41a-2df9c694bac5.jpg",
+              "img_align": "bottom",
+              "url": "shopify:\/\/collections\/mascarillas",
+              "open_link": "_self",
+              "cat_design": "2",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tr",
+              "banner_align": "fl_right"
+            }
+          }
+        },
+        "block_order": [
+          "1599192833528-1",
+          "1599192970655",
+          "1599192973775",
+          "1599192833528-0"
+        ],
+        "custom_css": [
+
+        ],
+        "settings": {
+          "title": "Según tu necesidad",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "image_ratio": "auto",
+          "col": "3",
+          "col_md": "3",
+          "col_mb": "6",
+          "hoverz": true,
+          "use_shadow": true,
+          "cl_txt": "#ffffff",
+          "cl_overlay": "#000000",
+          "cl_opacity": 0,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599438101347": {
+        "type": "banner",
+        "blocks": {
+          "1599438101347-0": {
+            "type": "image",
+            "settings": {
+              "img_align": "top",
+              "url": "shopify:\/\/collections\/favoritos",
+              "open_link": "_self",
+              "cat_design": "1",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_center"
+            }
+          },
+          "1599438169133": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Baners_pequenos-02_fff0d47e-412a-4b4f-9287-0e271cedd9c7.jpg",
+              "img_align": "top",
+              "url": "shopify:\/\/collections\/mascarillas",
+              "open_link": "_self",
+              "cat_design": "2",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_right"
+            }
+          },
+          "1599438101347-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Baners_pequenos-04_9612f589-ae61-49d6-a494-d4ded62aaf00.jpg",
+              "img_align": "center",
+              "url": "shopify:\/\/collections\/sets",
+              "open_link": "_self",
+              "cat_design": "2",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_right"
+            }
+          },
+          "1599438173605": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Baners_pequenos-03_9aa423f2-200e-4bd9-ab0e-23ed95934a55.jpg",
+              "img_align": "center",
+              "url": "shopify:\/\/products\/caja-con-productos-sorpresa-kawaii-box",
+              "open_link": "_self",
+              "cat_design": "2",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_right"
+            }
+          }
+        },
+        "block_order": [
+          "1599438101347-0",
+          "1599438169133",
+          "1599438101347-1",
+          "1599438173605"
+        ],
+        "settings": {
+          "title": "Categorías Especiales",
+          "sub_title": "",
+          "sub_font": "1",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "image_ratio": "auto",
+          "col": "6",
+          "col_md": "6",
+          "col_mb": "12",
+          "hoverz": true,
+          "use_shadow": true,
+          "cl_txt": "#ffffff",
+          "cl_overlay": "#000000",
+          "cl_opacity": 0,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "50px,5,0px,",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599438927692": {
+        "type": "banner2",
+        "blocks": {
+          "1599438927692-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cuidado-para-hombres.png",
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 0,
+              "cap_h_pos": 0,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "image_eFQMyh": {
+            "type": "image",
+            "settings": {
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "6",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599438927692-1": {
+            "type": "image",
+            "settings": {
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 0,
+              "cap_h_pos": 0,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599439002378": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/lineas-antiedad.png",
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "cd5b5b95-aea8-4c96-bb1c-cdc8ab936d1e": {
+            "type": "image",
+            "settings": {
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "6",
+              "col_pr_tb": "6",
+              "col_pr_mb": "6",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "1599438927692-0",
+          "image_eFQMyh",
+          "1599438927692-1",
+          "1599439002378",
+          "cd5b5b95-aea8-4c96-bb1c-cdc8ab936d1e"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Según tu  necesidad",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "hoverz": true,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599439657681": {
+        "type": "banner",
+        "blocks": {
+          "1599439657681-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/blog-tonymoly4.png",
+              "img_align": "center",
+              "url": "",
+              "open_link": "_self",
+              "cat_design": "2",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_center"
+            }
+          }
+        },
+        "block_order": [
+          "1599439657681-0"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "image_ratio": "auto",
+          "col": "12",
+          "col_md": "12",
+          "col_mb": "12",
+          "hoverz": true,
+          "use_shadow": false,
+          "cl_txt": "#ffffff",
+          "cl_overlay": "#000000",
+          "cl_opacity": 0,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "0px,,0px,",
+          "pd": "0px,,0px,",
+          "mg_mb": "0px,,0px,",
+          "pd_mb": "0px,,0px,"
+        }
+      },
+      "1599440722830": {
+        "type": "banner2",
+        "blocks": {
+          "1599440722830-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/facial_1.png",
+              "url": "shopify:\/\/collections\/cuidado-facial-coreano",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "2",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599440722830-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cuidado_corporal.png",
+              "url": "",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "2",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599440782004": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/maquillaje.png",
+              "url": "shopify:\/\/collections\/maquillaje-coreano",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "2",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599440919347": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/fun_products.png",
+              "url": "shopify:\/\/collections\/productos-divertidos-fun-products",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "2",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599440953130": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/masculino.png",
+              "url": "shopify:\/\/collections\/hombres",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "2",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          },
+          "1599441075707": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Promociones.png",
+              "url": "shopify:\/\/collections\/promociones",
+              "open_link": "_self",
+              "col_pr": "2",
+              "col_pr_tb": "2",
+              "col_pr_mb": "6",
+              "html": "",
+              "cap_v_pos": 50,
+              "cap_h_pos": 50,
+              "txt_align": "tc",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
+              "cl_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "1599440722830-0",
+          "1599440722830-1",
+          "1599440782004",
+          "1599440919347",
+          "1599440953130",
+          "1599441075707"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Categorias",
+          "sub_title": "",
+          "sub_font": "1",
+          "style_title": "title_4",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "hoverz": false,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "0px,,0px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599441220444": {
+        "type": "brand_list",
+        "blocks": {
+          "1599441220444-0": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/relajarse-01_e306aee1-7e75-442b-ad0c-986039bc0f62.jpg",
+              "url": "shopify:\/\/collections\/cuidado-facial-coreano",
+              "open_link": "_self"
+            }
+          },
+          "1599441220444-1": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/relajarse-06_be9ec1e5-9bf0-40af-ab35-4746274f21f4.jpg",
+              "url": "shopify:\/\/collections\/corporal",
+              "open_link": "_self"
+            }
+          },
+          "1599441220444-2": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/relajarse-04.jpg",
+              "url": "shopify:\/\/collections\/maquillaje-coreano",
+              "open_link": "_self"
+            }
+          },
+          "1599441220444-3": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/relajarse-05.jpg",
+              "url": "shopify:\/\/collections\/productos-divertidos-fun-products",
+              "open_link": "_self"
+            }
+          },
+          "1599441220444-4": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/relajarse-03.jpg",
+              "url": "shopify:\/\/collections\/hombres",
+              "open_link": "_self"
+            }
+          },
+          "1599441220444-5": {
+            "type": "brand",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/relajarse-02_c6757ab5-e914-40c5-ac53-deae48cc681b.jpg",
+              "url": "shopify:\/\/collections\/promociones",
+              "open_link": "_self"
+            }
+          }
+        },
+        "block_order": [
+          "1599441220444-0",
+          "1599441220444-1",
+          "1599441220444-2",
+          "1599441220444-3",
+          "1599441220444-4",
+          "1599441220444-5"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Categorías",
+          "sub_title": "",
+          "sub_font": "1",
+          "style_title": "title_4",
+          "ic_tt": "gem",
+          "show_clpr": true,
+          "brand_layout": "1",
+          "cat_space": "0",
+          "col": "2",
+          "col_md": "4",
+          "col_mb": "6",
+          "brand_hover": "0",
+          "loop": true,
+          "autoplay": true,
+          "au_time": 0,
+          "au_hover": false,
+          "button": false,
+          "btn_vi": "2",
+          "btn_owl": "2",
+          "btn_color": "3",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "3",
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "wis_heading": {
+        "type": "wis_heading",
+        "blocks": {
+          "wis_heading-0": {
+            "type": "2",
+            "settings": {
+              "text": "<p>View your wishlist products<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "wis_heading-0"
+        ],
+        "settings": {
+          "parallax": false,
+          "color": "#000000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "wishlist_page": {
+        "type": "wishlist_page",
+        "blocks": {
+          "wishlist_page-0": {
+            "type": "btn",
+            "settings": {
+              "title": "Return To Shop",
+              "url": "",
+              "style": "primary tu"
+            }
+          }
+        },
+        "block_order": [
+          "wishlist_page-0"
+        ],
+        "settings": {
+          "shop_layout": "default",
+          "show_col_switch": true,
+          "limit": 12,
+          "space": 30,
+          "use_pagination": "default",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "sea_heading": {
+        "type": "sea_heading",
+        "blocks": {
+          "sea_heading-0": {
+            "type": "1",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "sea_heading-0"
+        ],
+        "settings": {
+          "parallax": false,
+          "color": "#000000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "search_page": {
+        "type": "search_page",
+        "settings": {
+          "shop_layout": "default",
+          "shop_des": "default",
+          "show_col_switch": true,
+          "limit": 12,
+          "space": 30,
+          "use_pagination": "default",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8"
+        }
+      },
+      "us_heading": {
+        "type": "us_heading",
+        "blocks": {
+          "us_heading-0": {
+            "type": "1",
+            "settings": {
+              "title": "Quiénes somos"
+            }
+          },
+          "us_heading-1": {
+            "type": "2",
+            "settings": {
+              "text": ""
+            }
+          }
+        },
+        "block_order": [
+          "us_heading-0",
+          "us_heading-1"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Slider-Quienes-Somos-1.png",
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "page_about_us": {
+        "type": "page_about_us",
+        "blocks": {
+          "page_about_us-4": {
+            "type": "2",
+            "settings": {
+              "title": "Somos una marca de Cosmética Coreana que se estableció en Colombia en el año 2015 con el objetivo de, enseñar a la mujer latina un paso a paso para el cuidado de la piel teniendo como referente la cultura oriental, la cual gracias a su experiencia, ha desarrollado una extensa gama de productos cosméticos especializados en el cuidado y embellecimiento de la piel.."
+            }
+          },
+          "page_about_us-0": {
+            "type": "1",
+            "settings": {
+              "title": "Misión",
+              "content": "Nuestra misión es brindar una experiencia única con el poder de la cosmética Coreana, satisfaciendo los deseos y necesidades de nuestros clientes en cuanto a belleza y cuidado de la piel.",
+              "al": "txtn",
+              "cl": "6",
+              "cl_mb": "12"
+            }
+          },
+          "page_about_us-2": {
+            "type": "1",
+            "settings": {
+              "title": "Vision",
+              "content": "Lograr un posicionamiento como líderes en el mercado cosmetológico colombiano, dando a conocer la cultura de cosmética Coreana a través de centros de experiencia únicos y diferenciadores en servicio y asesoramiento; así, continuar con el gran crecimiento y reconocimiento que ha tenido la compañía a nivel internacional en los últimos años",
+              "al": "txtn",
+              "cl": "6",
+              "cl_mb": "12"
+            }
+          },
+          "page_about_us-1": {
+            "type": "1",
+            "settings": {
+              "title": "Calidad",
+              "content": "Excelente calidad en los productos, registros sanitarios y última generación en desarrollo de principios activos.",
+              "al": "txtn",
+              "cl": "6",
+              "cl_mb": "6"
+            }
+          },
+          "page_about_us-3": {
+            "type": "1",
+            "settings": {
+              "title": "Rapidez",
+              "content": "Rápido desarrollo de nuevos productos orientados a nuestro Mercado objetivo.",
+              "al": "txtn",
+              "cl": "6",
+              "cl_mb": "12"
+            }
+          },
+          "1599454194915": {
+            "type": "1",
+            "settings": {
+              "title": "Sofisticado y Divertido",
+              "content": "Empaques divertidos y originales que hacen más llamativos nuestros productos, permitiéndonos ofrecerte lo último en tendencias y productos sofisticados del mercado.",
+              "al": "tc",
+              "cl": "6",
+              "cl_mb": "12"
+            }
+          }
+        },
+        "block_order": [
+          "page_about_us-4",
+          "page_about_us-0",
+          "page_about_us-2",
+          "page_about_us-1",
+          "page_about_us-3",
+          "1599454194915"
+        ],
+        "settings": {
+        }
+      },
+      "faq_heading": {
+        "type": "faq_heading",
+        "blocks": {
+          "faq_heading-0": {
+            "type": "1",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "faq_heading-0"
+        ],
+        "settings": {
+          "image": "",
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "faqs": {
+        "type": "faqs",
+        "blocks": {
+          "faqs-0": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Por qué no encuentro productos que había comprado anteriormente en la pagina?",
+              "content": "<p>Muchas veces tenemos un producto en venta por una temporada y de un momento a otro no lo vemos m&aacute;s, esto se debe a que TonyMoly es una marca innovadora que busca reinventarse y sacar nuevos productos mes a mes, por este motivo est&aacute;n lanzando y descontinuado productos constantemente.<\/p>\n<p>&iexcl;Ten paciencia! Lo m&aacute;s probable es que sea solo por unos cuantos meses y lo lanzan nuevamente con diferente imagen o tengan otros con las mismas caracter&iacute;sticas.&nbsp;<\/p>"
+            }
+          },
+          "faqs-1": {
+            "type": "faq",
+            "settings": {
+              "title": "No tengo tarjeta de credito ¿ Puedo comrpar con otro medio de pago?",
+              "content": "<p><strong>En nuestra p&aacute;gina recibimos los siguientes medios de pago:<\/strong><\/p>\n<p><strong>-Bancolombia:<\/strong>&nbsp;si realizas tu pago por consignaci&oacute;n en el banco, esta tendr&aacute; un costo extra de $12.000 (doce mil pesos) por costos bancarios.<\/p>\n<p>Si pagas a trav&eacute;s de la sucursal virtual, App o PAC de Bancolombia no debes pagar el excedente.<\/p>\n<p><strong>-En efectivo a trav&eacute;s de PayU:<\/strong>&nbsp;Puedes pagar en efectivo a trav&eacute;s de puntos Baloto, Efecty y SuRed. La p&aacute;gina generar&aacute; un c&oacute;digo exclusivo por tu pedido y as&iacute; puedas pagar con total tranquilidad.<\/p>\n<p><strong>-Pago contra entrega:<\/strong>&nbsp;En el momento que selecciones esta forma de pago nuestro equipo se comunicar&aacute; contigo para confirmar tus datos personales. Esta confirmaci&oacute;n se realizar&aacute; en el horario de lunes a s&aacute;bado de 8:00am a 5:00pm.<\/p>\n<p>Debes pagar en efectivo directamente al mensajero de la transportadora y tener la cantidad exacta que corresponde al valor de tu pedido.<\/p>\n<p><strong>-Tarjeta de cr&eacute;dito a trav&eacute;s de ePayco.<\/strong><\/p>"
+            }
+          },
+          "faqs-2": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Cuales son los medios de pago?",
+              "content": "<p><strong>En nuestra p&aacute;gina recibimos los siguientes medios de pago:<\/strong><\/p>\n<p><strong>-Bancolombia:<\/strong>&nbsp;si realizas tu pago por consignaci&oacute;n en el banco, esta tendr&aacute; un costo extra de $12.000 (doce mil pesos) por costos bancarios.<\/p>\n<p>Si pagas a trav&eacute;s de la sucursal virtual, App o PAC de Bancolombia no debes pagar el excedente.<\/p>\n<p><strong>-En efectivo a trav&eacute;s de PayU:<\/strong>&nbsp;Puedes pagar en efectivo a trav&eacute;s de puntos Baloto, Efecty y SuRed. La p&aacute;gina generar&aacute; un c&oacute;digo exclusivo por tu pedido y as&iacute; puedas pagar con total tranquilidad.<\/p>\n<p><strong>-Pago contra entrega:<\/strong>&nbsp;En el momento que selecciones esta forma de pago nuestro equipo se comunicar&aacute; contigo para confirmar tus datos personales. Esta confirmaci&oacute;n se realizar&aacute; en el horario de lunes a s&aacute;bado de 8:00am a 5:00pm.<\/p>\n<p>Debes pagar en efectivo directamente al mensajero de la transportadora y tener la cantidad exacta que corresponde al valor de tu pedido.<\/p>\n<p><strong>-Tarjeta de cr&eacute;dito a trav&eacute;s de ePayco.<\/strong><\/p>"
+            }
+          },
+          "faqs-3": {
+            "type": "faq",
+            "settings": {
+              "title": "¿ En cuanto tiempo va llegar mi pedido?",
+              "content": "<p>Nuestro tiempo promedio de entrega es de dos a cinco d&iacute;as h&aacute;biles despu&eacute;s de la&nbsp;<strong>confirmaci&oacute;n del pago<\/strong>.<\/p>\n<p>Es importante tener en cuenta:<\/p>\n<p>&bull; S&iacute; realizaste el pago por transferencia debes enviarnos el comprobante al WhatsApp 📲 318 353 5862, as&iacute; lo podremos confirmar e iniciar el proceso de env&iacute;o.<\/p>\n<p>*Estas confirmaciones se realizan en el horario de lunes a s&aacute;bado de 8:00am a 5:00pm.<\/p>\n<p>&bull; Sino est&aacute;s en la capital del departamento en el que vives tu paquete va a llegar primero a esta y de all&iacute; ser&aacute; remitido a tu ciudad de residencia.<\/p>\n<p>&bull; Toda compra que realices con medio de pago contra entrega se enviar&aacute; luego de la confirmaci&oacute;n telef&oacute;nica, esto puede hacer un poco demorado el env&iacute;o sino se localiza al comprador de forma r&aacute;pida.<br>&nbsp;<\/p>"
+            }
+          },
+          "1599454452745": {
+            "type": "faq",
+            "settings": {
+              "title": "¿ Como puedo rastrear mi pedido?",
+              "content": "<p>Una vez tu pedido sea enviado se te confirmar&aacute; a tu correo electr&oacute;nico el n&uacute;mero de gu&iacute;a con la transportadora.<\/p>\n<p>Sino recibes esta confirmaci&oacute;n puedes comunicarte con nosotros para solicitar tu n&uacute;mero de gu&iacute;a a trav&eacute;s de Instagram, Facebook, WhatsApp 📲 3183535862 y correo electr&oacute;nico info@tonymolycolombia.com<\/p>"
+            }
+          },
+          "1599454480366": {
+            "type": "faq",
+            "settings": {
+              "title": "El Mensajero vino a mi casa y no había nadie ¿ Si recibiré mi pedido?",
+              "content": "<p>-El mensajero ir&aacute; 2 veces a la direcci&oacute;n que diste a la hora de hacer tu pedido, si pasadas las 2 visitas nadie recibe el paquete ser&aacute; regresado a nuestra casa matriz.<\/p>\n<p>*En caso de saber del primer intento fallido de entrega te sugerimos comunicarte con la transportadora teniendo en cuenta tu n&uacute;mero de gu&iacute;a para informarte del horario de reparto o pasar directamente a sus oficinas a reclamarlo.<\/p>"
+            }
+          },
+          "1599454524586": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Los descuentos son acumulables?",
+              "content": "<p>No, si tienes un bono de descuento que obtuviste inscribi&eacute;ndote al bolet&iacute;n o en alguno de nuestros eventos este NO ser&aacute; acumulable con otros bonos, cupones o promociones activas de la p&aacute;gina web o tiendas.&nbsp;<\/p>"
+            }
+          },
+          "1599454561358": {
+            "type": "faq",
+            "settings": {
+              "title": "¿ Qué debo hacer si mi pedido es regresado a la casa matriz porque nadie lo recibió había errores en mi dirección??",
+              "content": "<p>En este caso se puede recurrir a las siguientes soluciones:<\/p>\n<p>&bull; Si tu pedido fue regresado a la casa matriz porque nadie lo recibi&oacute;, se puede acordar un segundo env&iacute;o pero los costos de este deben ser asumidos nuevamente por ti como comprador.<\/p>\n<p>&bull; Si tu pedido fue regresado por un error en la direcci&oacute;n, se puede acordar un segundo env&iacute;o. El costo del env&iacute;o ser&aacute; asumido por la parte responsable de este, ya seas t&uacute; (comprador) o nosotros (vendedor).<\/p>\n<p>&bull; Si tu pedido fue regresado a la casa matriz y ya no lo quieres, se generar&aacute; un bono por el mismo valor de tu compra descontando los gastos de env&iacute;o para que lo redimas en un pr&oacute;ximo pedido.<\/p>"
+            }
+          },
+          "1599454647280": {
+            "type": "faq",
+            "settings": {
+              "title": "Cuando llego mi pedido vino un producto equivocado",
+              "content": "<p>En caso de que te haya llegado el producto que no era av&iacute;sanos inmediatamente para ponernos en contacto contigo.<\/p>\n<p>Nuestro equipo gestionar&aacute; el env&iacute;o del producto correcto y la devoluci&oacute;n del equivocado.<\/p>\n<p>&iexcl;Te pedimos que por favor no abras o utilices el producto que no quer&iacute;as!&nbsp;<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "faqs-0",
+          "faqs-1",
+          "faqs-2",
+          "faqs-3",
+          "1599454452745",
+          "1599454480366",
+          "1599454524586",
+          "1599454561358",
+          "1599454647280"
+        ],
+        "settings": {
+          "auto": true
+        }
+      },
+      "1599500294582": {
+        "type": "featured_collection_owl",
+        "disabled": true,
+        "settings": {
+          "title": "FUN PRODUCTS",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "productos-divertidos-fun-products",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "15",
+          "col_pr_tb": "4",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599505532146": {
+        "type": "newsletter2",
+        "settings": {
+          "title": "¡Entérate de todas nuestras ofertas!",
+          "sub_title": "Suscribete ahora a nuestros boletines y manténgase al día con las nuevas colecciones.",
+          "newl_des": "1",
+          "btn_icon": false,
+          "cl_overlay": "#000000",
+          "cl_opacity": 0,
+          "se_bg": "#ffbcbc",
+          "color": "light",
+          "use_pr": false,
+          "layout": "container",
+          "mg": "0px,,0px,",
+          "pd": "50px,,50px,",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599967562663": {
+        "type": "featured_collection_owl",
+        "disabled": true,
+        "settings": {
+          "title": "Ofertas de la semana",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "promociones",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1 tc",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599967695400": {
+        "type": "banner",
+        "blocks": {
+          "1599967695400-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Mesa_de_trabajo_1_0854f554-dbed-42f7-b031-5949f56e074d.png",
+              "img_align": "center",
+              "url": "shopify:\/\/collections",
+              "open_link": "_self",
+              "cat_design": "1",
+              "title": "",
+              "title_2": "",
+              "txt_align": "tc",
+              "banner_align": "fl_center"
+            }
+          }
+        },
+        "block_order": [
+          "1599967695400-0"
+        ],
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "sub_font": "2",
+          "style_title": "title_1",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "cat_space": "30",
+          "image_ratio": "auto",
+          "col": "12",
+          "col_md": "12",
+          "col_mb": "12",
+          "hoverz": false,
+          "use_shadow": false,
+          "cl_txt": "#ffffff",
+          "cl_overlay": "#000000",
+          "cl_opacity": 0,
+          "layout": "nt_full",
+          "cl_bg": "",
+          "mg": "60px,,60px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599967950636": {
+        "type": "featured_collection_owl",
+        "disabled": true,
+        "settings": {
+          "title": "Los Más Vendidos",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "Ver todos los productos",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "mas-vendidos",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "1599968188748": {
+        "type": "featured_blog",
+        "settings": {
+          "title": "Blog",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all posts",
+          "style_title": "title_3",
+          "ic_tt": "pencil-alt",
+          "show_clpr": false,
+          "layout_des": "2",
+          "art_des": "2",
+          "blog": "noticias",
+          "limit": 8,
+          "use_pagination": "view-all",
+          "use_bar_lm": false,
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "primary",
+          "date": "date",
+          "col_pr": "4",
+          "col_pr_tb": "4",
+          "col_pr_mb": "12",
+          "show_cnt": true,
+          "show_au": false,
+          "show_dt": false,
+          "show_cm": false,
+          "show_rm": true,
+          "loop": false,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio4_3",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "layout": "container",
+          "cl_bg": "#ffffff",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "16491897720b690789": {
+        "type": "instagram_feed",
+        "blocks": {
+          "16491897720b690789-0": {
+            "type": "1",
+            "settings": {
+              "title": "@tonymoly_colombia",
+              "sub_title": "",
+              "sub_font": "1",
+              "style_title": "title_2",
+              "ic_tt": "gem",
+              "show_clpr": false
+            }
+          },
+          "16491897720b690789-1": {
+            "type": "img",
+            "settings": {
+              "url": ""
+            }
+          },
+          "16491897720b690789-2": {
+            "type": "img",
+            "settings": {
+              "url": ""
+            }
+          },
+          "16491897720b690789-3": {
+            "type": "img",
+            "settings": {
+              "url": ""
+            }
+          },
+          "16491897720b690789-4": {
+            "type": "img",
+            "settings": {
+              "url": ""
+            }
+          },
+          "16491897720b690789-5": {
+            "type": "img",
+            "settings": {
+              "url": ""
+            }
+          },
+          "16491897720b690789-6": {
+            "type": "img",
+            "settings": {
+              "url": ""
+            }
+          }
+        },
+        "block_order": [
+          "16491897720b690789-0",
+          "16491897720b690789-1",
+          "16491897720b690789-2",
+          "16491897720b690789-3",
+          "16491897720b690789-4",
+          "16491897720b690789-5",
+          "16491897720b690789-6"
+        ],
+        "disabled": true,
+        "settings": {
+          "open_link": "_self",
+          "layout_des": "2",
+          "space": "0",
+          "rounded_ins": "0",
+          "col_pr": "2",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "loop": false,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio1_1",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "layout": "nt_full",
+          "cl_bg": "#ffffff",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "acc_heading": {
+        "type": "acc_heading",
+        "blocks": {
+          "acc_heading-0": {
+            "type": "1",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "acc_heading-0"
+        ],
+        "settings": {
+          "parallax": false,
+          "color": "#000",
+          "overlay": 54,
+          "padding": 50,
+          "bg_pos": "center center",
+          "bg_repeat": "no-repeat",
+          "bg_size": "cover",
+          "bg_att": "scroll"
+        }
+      },
+      "newsletter_pp": {
+        "type": "newsletter_pp",
+        "blocks": {
+          "newsletter_pp-0": {
+            "type": "img",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/madre-su-joven-bonita-hija-divirtiendose-dormitorio-haciendo-mascaras-faciales-arcilla.jpg"
+            }
+          },
+          "newsletter_pp-1": {
+            "type": "content",
+            "settings": {
+              "title": "¡Hola¡ Estamos Felices de Tenerte en TONYMOLY! 😍",
+              "sub": "Suscríbete a Nuestro Newsletter y Obtén 10% OFF en tu Primera Compra, Además Entérate de Nuevos Productos, Promociones y fechas especiales.",
+              "newl_des": "2",
+              "btn_icon": true,
+              "txt": "¡Hemos Enviado a tu Correo Electrónico el Cupón con el 10% OFF, Para que lo Aproveches en Primera Compra! 🤩",
+              "btn_ck": false,
+              "txt2": ""
+            }
+          }
+        },
+        "block_order": [
+          "newsletter_pp-0",
+          "newsletter_pp-1"
+        ],
+        "settings": {
+          "des": "2",
+          "fix_h": true,
+          "fix_h_mb": true,
+          "mb": true,
+          "index": true,
+          "product": false,
+          "collection": false,
+          "article": false,
+          "blog": false,
+          "cart": false,
+          "page": false,
+          "number_pages": 0,
+          "pp_version": 7,
+          "day_next": 0,
+          "after": "scroll",
+          "time_delay": 2,
+          "scroll_delay": 500
+        }
+      },
+      "2a536f94-28cf-4129-bb30-5e7c7430e2cb": {
+        "type": "featured_collection_owl",
+        "disabled": true,
+        "settings": {
+          "title": "NUEVAS RUTINAS",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "rutinas-3-y-5-pasos",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "15",
+          "col_pr_tb": "4",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "loop": true,
+          "au_time": 0,
+          "au_hover": true,
+          "button": false,
+          "btn_vi": "1",
+          "btn_owl": "1",
+          "btn_color": "0",
+          "dot": true,
+          "dot_owl": "1",
+          "dot_color": "1",
+          "use_eq_height": true,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "header_9": {
+        "type": "header_9",
+        "blocks": {
+          "header_9-0": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 1",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "header_9-1": {
+            "type": "simple",
+            "settings": {
+              "title": "Heading 2",
+              "url": "#",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header_9-0",
+          "header_9-1"
+        ],
+        "settings": {
+          "height": 92,
+          "arrow": false,
+          "align": "tl",
+          "hover": "hover_side_up"
+        }
+      },
+      "0f9860bb-0fe2-4437-b42c-3e70b041c183": {
+        "type": "custom_section",
+        "blocks": {
+          "75cac2d7-ffb5-426e-a98f-a5577540a2e1": {
+            "type": "html",
+            "settings": {
+              "html": "<table class=\"table-banner\">\n<tbody>\n<tr>\n<td>\n<h2>5%<\/h2>\n<\/td>\n<td>Pedidos superiores a\n200 mil<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+              "cl": "3",
+              "cl_tb": "3",
+              "cl_mb": "12"
+            }
+          },
+          "7b5b356c-0952-41f8-ae7e-ed001f50a417": {
+            "type": "html",
+            "settings": {
+              "html": "<table class=\"table-banner\">\n<tbody>\n<tr>\n<td>\n<h2>10%<\/h2>\n<\/td>\n<td>Pedidos superiores a\n280 mil<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+              "cl": "3",
+              "cl_tb": "3",
+              "cl_mb": "12"
+            }
+          },
+          "518386b0-a78b-4494-bbbb-079469b189bb": {
+            "type": "html",
+            "settings": {
+              "html": "<table class=\"table-banner\">\n<tbody>\n<tr>\n<td>\n<h2>15%<\/h2>\n<\/td>\n<td>Pedidos superiores a\n350 mil<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+              "cl": "3",
+              "cl_tb": "3",
+              "cl_mb": "12"
+            }
+          },
+          "89abba4b-a9db-4dd9-a79e-8bbb72d900d1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/envio-gratis.png",
+              "wid": "",
+              "cl": "3",
+              "cl_tb": "3",
+              "cl_mb": "12"
+            }
+          }
+        },
+        "block_order": [
+          "75cac2d7-ffb5-426e-a98f-a5577540a2e1",
+          "7b5b356c-0952-41f8-ae7e-ed001f50a417",
+          "518386b0-a78b-4494-bbbb-079469b189bb",
+          "89abba4b-a9db-4dd9-a79e-8bbb72d900d1"
+        ],
+        "disabled": true,
+        "custom_css": [
+          ".table-banner,.table-banner tr,.table-banner td {border: none; vertical-align: middle; text-align: center;}",
+          ".row > div {color: #848484; font-size: 15px; border-right: 1px solid #e8e7e7;}",
+          ".row > div:last-child {border: none;}",
+          ".row > div h2 {color: #ff7777; font-size: 45px;}",
+          ".row > div:nth-child(2) h2 {color: #99ccdc;}",
+          ".row > div:nth-child(3) h2 {color: #f5bfbd;}",
+          "@media (max-width: 780px) {.row > div {border: none; }}"
+        ],
+        "settings": {
+          "layout": "container",
+          "cl_bg": "#ffffff",
+          "mg": "50px,,20px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "5739d84f-0e65-48a9-9373-1c24b9516b20": {
+        "type": "featured_collection",
+        "settings": {
+          "title": "FUN PRODUCTS",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "productos-divertidos-fun-products",
+          "limit": 8,
+          "space": 30,
+          "use_pagination": "none",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "dbd81d70-0f83-4f79-a439-6bef257d938d": {
+        "type": "featured_collection",
+        "settings": {
+          "title": "Ofertas de la semana",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "promociones",
+          "limit": 12,
+          "space": 30,
+          "use_pagination": "none",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "3",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      },
+      "ea043424-f873-46e3-852e-f8bb1aecd067": {
+        "type": "featured_collection",
+        "custom_css": [
+
+        ],
+        "settings": {
+          "title": "Los Más Vendidos",
+          "sub_title": "",
+          "sub_font": "2",
+          "btn_title": "See all products",
+          "style_title": "title_3",
+          "ic_tt": "gem",
+          "show_clpr": false,
+          "collection": "mas-vendidos",
+          "limit": 6,
+          "space": 30,
+          "use_pagination": "none",
+          "use_bar_lm": true,
+          "btn_rd": true,
+          "btn_icon": false,
+          "btn_style": "default",
+          "col_pr": "4",
+          "col_pr_tb": "3",
+          "col_pr_mb": "6",
+          "pr_des": "1",
+          "show_vendor": false,
+          "use_cdt": false,
+          "round_cd": false,
+          "cdt_des": "1",
+          "use_eq_height": false,
+          "image_ratio": "ratio_nt",
+          "image_size": "nt_cover",
+          "image_position": "8",
+          "hidden": false,
+          "cp_code": false,
+          "layout": "container",
+          "cl_bg": "",
+          "mg": "50px,,50px,",
+          "pd": "",
+          "mg_mb": "",
+          "pd_mb": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1581505806578",
+      "0f9860bb-0fe2-4437-b42c-3e70b041c183",
+      "1599441220444",
+      "1596105095030",
+      "ea043424-f873-46e3-852e-f8bb1aecd067",
+      "1599967950636",
+      "2a536f94-28cf-4129-bb30-5e7c7430e2cb",
+      "1599967695400",
+      "1599438101347",
+      "5739d84f-0e65-48a9-9373-1c24b9516b20",
+      "1599500294582",
+      "1599438927692",
+      "1599192833528",
+      "dbd81d70-0f83-4f79-a439-6bef257d938d",
+      "1599967562663",
+      "1599439657681",
+      "1596162174468",
+      "1599440722830",
+      "1599505532146",
+      "1599968188748",
+      "16491897720b690789"
+    ],
+    "blocks": {
+      "1759773598402494664": {
+        "type": "shopify:\/\/apps\/roar-whatsapp-chat-telegram\/blocks\/app-embed\/9baee9b7-6929-47af-9935-05bcdc376396",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "320593021044489861": {
+        "type": "shopify:\/\/apps\/sale-discount-manager\/blocks\/countdown\/29205fb1-2e68-4d81-a905-d828a51c8413",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "pagefly-page-builder": {
+        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".cat_des_ntt4 {font-size: 13px;}",
+      ".nt_pr h3.product-title {font-size: 16px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;}",
+      ".mb_nav_title.active {background-color: #000; color: #fff;}"
+    ]
+  }
+}

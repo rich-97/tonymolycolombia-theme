@@ -1,0 +1,132 @@
+{%- liquid
+  assign sid = section.id
+  assign col = section.settings.col_pr
+  assign col_tb = section.settings.col_pr_tb
+  assign col_mb = section.settings.col_mb
+  if col_mb == 'fl_wrap'
+     assign cl_mb = 'col-12'
+  else 
+    assign cl_mb = 'col-9'
+  endif -%}
+
+<div class="nt_se_{{sid}} {{section.settings.layout}}">
+  <div class="row {{col_mb}} fl_wrap_md oah use_border_{{section.settings.border}}">
+
+        <div class="{{cl_mb}} col-md-{{col_tb}} col-lg-{{col}} mb__25">
+          <div class="nt_countdown row no-gutters al_center_">
+            <div class="col content">
+              <p class="mg__0">TIMER</p>
+            </div>
+          </div>
+        </div>
+    
+  </div>
+</div>
+
+{%- render 'section_css' -%}
+{%- style -%}
+.nt_se_{{sid}} .use_border_true .nt_shipping:after {border-color:{{section.settings.cl_bd}} }
+{%- endstyle -%}
+
+{% schema %}
+  {
+    "name": "Countdown",
+    "class": "nt_section type_countdown",
+    "settings": [
+      {
+        "type": "header",
+        "content": "== General Settings"
+      },
+      {
+        "type": "select",
+        "id": "col_pr",
+        "label": "Shipping columns",
+        "default": "3",
+        "options": [
+          {
+            "value": "6",
+            "label": "2"
+          },
+          {
+            "value": "4",
+            "label": "3"
+          },
+          {
+            "value": "3",
+            "label": "4"
+          },
+          {
+            "value": "15",
+            "label": "5"
+          },
+          {
+            "value": "2",
+            "label": "6"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "id": "col_pr_tb",
+        "label": "Shipping columns Tablet",
+        "default": "6",
+        "options": [
+          {
+            "value": "6",
+            "label": "2"
+          },
+          {
+            "value": "4",
+            "label": "3"
+          },
+          {
+            "value": "3",
+            "label": "4"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "id": "col_mb",
+        "label": "Shipping columns Mobile",
+        "default": "fl_nowrap",
+        "options": [
+          {
+            "value": "fl_wrap",
+            "label": "Default"
+          },
+          {
+            "value": "fl_nowrap",
+            "label": "Modern"
+          }
+        ]
+      },
+      {
+        "type": "header",
+        "content": "== Design Options"
+      },
+      {
+        "type": "color",
+        "id": "cl",
+        "label": "Color",
+        "default": "#222222"
+      },
+      {
+        "type": "color",
+        "id": "cl_bd",
+        "label": "Border color",
+        "default": "#ddd"
+      },
+      {
+        "type": "color",
+        "id": "cl_bg",
+        "label": "Background color",
+        "default": "#fff"
+      }
+      
+    ]
+  }
+{% endschema %}
+
+{% javascript %}
+{% endjavascript %}

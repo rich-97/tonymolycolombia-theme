@@ -1,0 +1,915 @@
+<!doctype html>
+<html class="no-js" lang="{{ request.locale.iso_code }}">
+<head>
+  <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1462882417810421');
+fbq('track', 'PageView');
+<script>
+  fbq('track', 'ViewContent', {
+    value: 20000,
+    currency: 'COP',
+  });
+</script>
+
+</script>
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1462882417810421&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=561705119396595&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
+  <meta name="theme-color" content="{{ settings.color_primary }}">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="facebook-domain-verification" content="bz7e4goydfszchb7rw1nx7x1quhi0o" />
+  <link rel="canonical" href="{{ canonical_url }}">
+  <link rel="preconnect" href="//fonts.shopifycdn.com/" crossorigin>
+  <link rel="preconnect" href="//cdn.shopify.com/" crossorigin>
+  <link rel="preconnect" href="//v.shopify.com/" crossorigin>
+  <link rel="dns-prefetch" href="//{{shop.domain}}" crossorigin>
+  <link rel="dns-prefetch" href="//{{shop.permanent_domain}}" crossorigin>
+  <link rel="dns-prefetch" href="//cdn.shopify.com" crossorigin>
+  <link rel="dns-prefetch" href="//v.shopify.com" crossorigin>
+  <link rel="dns-prefetch" href="//fonts.shopifycdn.com" crossorigin>
+  <link rel="dns-prefetch" href="//fonts.googleapis.com" crossorigin>
+  <link rel="dns-prefetch" href="//kit-pro.fontawesome.com" crossorigin>
+  <link rel="preload" as="style" href="{{ 'pre_theme.min.css' | asset_url }}">
+  <link rel="preload" as="style" href="{{ 'theme.scss.css' | asset_url }}">
+  <style>
+    .flickity-button {
+      border-radius: 60px !important;
+    }
+
+    .prev_next_2 button.flickity-button:not(:hover) {
+      background-color: #000;
+      border-color: #000;
+      color: #fff;
+    }
+  </style>
+  {%- capture seo_title -%}
+    {%- if template == 'search' and search.performed == true -%}{{ 'general.search.heading' | t: count: search.results_count }}: {{ 'general.search.results_with_count' | t: terms: search.terms, count: search.results_count }}{%- elsif template == 'search.wish' %}{{ 'general.meta.wishlist' | t }}{%- else -%}{{ page_title }}{%- endif -%}
+    {%- if current_tags -%}{%- assign meta_tags = current_tags | join: ', ' %} &ndash; {{ 'general.meta.tags' | t: tags: meta_tags -}}{%- endif -%}
+    {%- if current_page != 1 %} &ndash; {{ 'general.meta.page' | t: page: current_page }}{%- endif -%}
+    {%- assign escaped_page_title = page_title | escape -%}
+    {%- unless escaped_page_title contains shop.name %} &ndash; {{ shop.name }}{%- endunless -%}
+  {%- endcapture -%}
+  <title>{{ seo_title | strip }}</title>
+  {%- if page_description %}<meta name="description" content="{{ page_description | escape }}">
+  {%- elsif collection.current_type or collection.current_vendor %}<meta name="description" content="{{ shop.description | default: shop.name | escape }}">{% endif -%}
+  {%  assign content_for_header = content_for_header | replace: ' if(window.attachEvent) {', "document.addEventListener('StartAsyncLoading',function(event){asyncLoad();});if(window.attachEvent) { " | replace: 'asyncLoad);', 'function(){});' | replace: 'asyncLoad, false);','function(){}, false);' | replace: 'defer="defer" src', 'defer="defer" data-src' %}
+  {%- if settings.favicon != blank %}<link rel="shortcut icon" type="image/png" href="{{ settings.favicon | img_url: '32x' }}">{% endif -%}
+  {%- if settings.favicon_apple != blank %}<link rel="apple-touch-icon-precomposed" type="image/png" sizes="152x152" href="{{ settings.favicon_apple | img_url: '152x' }}">{% endif -%}
+  {%- liquid 
+    assign t_name = request.page_type
+    assign body_img = settings.body_bg_image
+    render 'social-meta-tags',t_name:t_name
+    if template contains 'index'
+	render 'head_assets1',t_name:t_name
+   	else
+	render 'head_assets',t_name:t_name
+   	endif
+    capture class_body_theme 
+      render 'class_body_theme',t_name:t_name, body_img:body_img 
+    endcapture -%}
+	<!-- Hotjar Tracking Code for https://www.tonymolycolombia.com/ -->
+ <!-- <script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2136179,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script> -->
+
+    {{ content_for_header }}
+{% include 'booster-common' %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% include 'pagefly-app-header' %}</head>
+<body {{class_body_theme | strip_newlines-}}>
+  {%- render 'lazypreload' -%}
+  <div id="nt_wrapper">
+    {%- render 'header',t_name:t_name -%}
+    <div id="nt_content">{{ content_for_layout }}</div>
+    <footer id="nt_footer" class="bgbl footer-1">{%- section 'footer_top' -%}{%- section 'footer_bot' -%}</footer>
+  </div>
+  {%- render 'div_html',t_name:t_name -%}
+  
+  	<!-- Hotjar Tracking Code for https://www.tonymolycolombia.com/ -->
+<script>
+setTimeout(function(){ (function(h,o,t,j,a,r){
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings={hjid:2136179,hjsv:6};a=o.getElementsByTagName('head')[0];r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');},5000);
+</script>
+  	<!-- ADDI for https://www.tonymolycolombia.com/ -->
+  <script
+data-name="shopifyAddiWidget"
+data-id="tonymolycolombia"
+data-ally-slug="tonymoly-ecommerce"
+data-element-reference=".flex.wrap.fl_between.al_center.price-review"
+src="https://s3.amazonaws.com/statics.addi.com/shopify/js/shopify-co-widget-wrapper.bundle.min.js"
+></script>
+  <script src="{{ 'platform.js' | asset_url }}" defer="defer"></script>
+ {% include 'smile-initializer' %}
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+    const slider = document.querySelector(".top-slider");
+    const slides = document.querySelectorAll(".top-slide");
+    let currentIndex = 0;
+
+    function updateSlider() {
+      const slideWidth = slides[currentIndex].clientWidth;
+      slider.style.transition = "transform 0.5s ease-in-out";
+      slider.style.transform = `translateX(-${slideWidth * currentIndex}px)`;
+    }
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % slides.length;
+      updateSlider();
+
+      // After reaching the last slide, reset to the first slide
+      if (currentIndex === 0) {
+        setTimeout(() => {
+          slider.style.transition = "none";
+          slider.style.transform = `translateX(0)`;
+        }, 500);
+      }
+    }
+
+    setInterval(nextSlide, 3000); // Change slide every 3 seconds (adjust as needed)
+  });
+  </script>
+</body>
+</html>
